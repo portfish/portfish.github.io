@@ -17,19 +17,11 @@
 		<lastmod>2020-11-12</lastmod>
 	</url>
 	<url>
-		<loc>https://portfish.net/404/</loc>
+		<loc>https://portfish.net/events/archive/</loc>
 		<lastmod>2020-11-12</lastmod>
 	</url>
 	<url>
-		<loc>https://portfish.net/amp/404/</loc>
-		<lastmod>2020-11-12</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/privacy/</loc>
-		<lastmod>2020-11-12</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/amp/privacy/</loc>
+		<loc>https://portfish.net/amp/events/archive/</loc>
 		<lastmod>2020-11-12</lastmod>
 	</url>
 	<url>
@@ -41,14 +33,6 @@
 		<lastmod>2020-11-12</lastmod>
 	</url>
 	<url>
-		<loc>https://portfish.net/music/</loc>
-		<lastmod>2020-11-12</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/amp/music/</loc>
-		<lastmod>2020-11-12</lastmod>
-	</url>
-	<url>
 		<loc>https://portfish.net/artists/</loc>
 		<lastmod>2020-11-12</lastmod>
 	</url>
@@ -57,31 +41,11 @@
 		<lastmod>2020-11-12</lastmod>
 	</url>
 	<url>
-		<loc>https://portfish.net/sitemap/</loc>
+		<loc>https://portfish.net/404/</loc>
 		<lastmod>2020-11-12</lastmod>
 	</url>
 	<url>
-		<loc>https://portfish.net/amp/sitemap/</loc>
-		<lastmod>2020-11-12</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/search/</loc>
-		<lastmod>2020-11-12</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/store/</loc>
-		<lastmod>2020-11-12</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/amp/store/</loc>
-		<lastmod>2020-11-12</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/events/archive/</loc>
-		<lastmod>2020-11-12</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/amp/events/archive/</loc>
+		<loc>https://portfish.net/amp/404/</loc>
 		<lastmod>2020-11-12</lastmod>
 	</url>
 	<url>
@@ -93,44 +57,44 @@
 		<lastmod>2020-11-12</lastmod>
 	</url>
 	<url>
+		<loc>https://portfish.net/music/</loc>
+		<lastmod>2020-11-12</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/amp/music/</loc>
+		<lastmod>2020-11-12</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/search/</loc>
+		<lastmod>2020-11-12</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/sitemap/</loc>
+		<lastmod>2020-11-12</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/amp/sitemap/</loc>
+		<lastmod>2020-11-12</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/privacy/</loc>
+		<lastmod>2020-11-12</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/amp/privacy/</loc>
+		<lastmod>2020-11-12</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/store/</loc>
+		<lastmod>2020-11-12</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/amp/store/</loc>
+		<lastmod>2020-11-12</lastmod>
+	</url>
+	<url>
 		<loc>https://portfish.net/port-fish/rss.xml</loc>
 		<lastmod>2020-10-23</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/amp/tag/ambient/</loc>
-		<lastmod>2020-11-12</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/amp/tag/chillout/</loc>
-		<lastmod>2020-11-12</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/amp/tag/experimental/</loc>
-		<lastmod>2020-11-12</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/amp/tag/trip-hop/</loc>
-		<lastmod>2020-11-12</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/amp/tag/downtempo/</loc>
-		<lastmod>2020-11-12</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/amp/about/</loc>
-		<lastmod>2020-11-12</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/about/</loc>
-		<lastmod>2020-11-12</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/empire-of-silence/</loc>
-		<lastmod>2020-11-12</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/maybe-yes/</loc>
-		<lastmod>2020-11-12</lastmod>
 	</url>
 	<url>
 		<loc>https://portfish.net/amp/empire-of-silence/</loc>
@@ -158,6 +122,42 @@
 	</url>
 	<url>
 		<loc>https://portfish.net/tag/downtempo/</loc>
+		<lastmod>2020-11-12</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/about/</loc>
+		<lastmod>2020-11-12</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/amp/tag/ambient/</loc>
+		<lastmod>2020-11-12</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/amp/tag/chillout/</loc>
+		<lastmod>2020-11-12</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/amp/tag/experimental/</loc>
+		<lastmod>2020-11-12</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/amp/tag/trip-hop/</loc>
+		<lastmod>2020-11-12</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/amp/tag/downtempo/</loc>
+		<lastmod>2020-11-12</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/empire-of-silence/</loc>
+		<lastmod>2020-11-12</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/maybe-yes/</loc>
+		<lastmod>2020-11-12</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/amp/about/</loc>
 		<lastmod>2020-11-12</lastmod>
 	</url>
 </urlset>
