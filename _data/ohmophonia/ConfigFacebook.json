@@ -1,0 +1,20 @@
+{
+	"isOn"            : true,
+	"appID"           : "713921889235544",
+	"pageID"          : "175427573172172",
+	"comments" : {
+		"isOn"        : true,
+		"colorScheme" : "light"
+	},
+	"chat" : {
+		"isOn"        : true,
+		"greetingIn"  : "Welcome to Ohmophonia!",
+		"greetingOut" : "Have a nice day!",
+		"dialogMode"  : "hide",
+		"dialogDelay" : "18"
+	},
+	"pixel" : {
+		"isOn"    : true,
+		"pixelID" : "414335059950218"
+	}
+}

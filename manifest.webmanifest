@@ -1,0 +1,42 @@
+
+
+{
+	"short_name": "Port Fish",
+	"name": "Port Fish",
+	"description": "Port Fish is an independent record label based in Slovakia/Europe, specializing in electronic music of various styles such as ambient, chill-out, downtempo, and easy-listening.",
+	"categories": ["music", "musician", "band", "music band", "artist"],
+	"lang": "en-US",
+	"icons": [
+		{
+			"src": "/media/app/portfish-app-icon-144.png",
+			"type": "image/png",
+			"sizes": "144x144",
+			"purpose": "any maskable"
+		},
+		{
+			"src": "/media/app/portfish-app-icon-180.png",
+			"type": "image/png",
+			"sizes": "180x180",
+			"purpose": "any maskable"
+		},
+		{
+			"src": "/media/app/portfish-app-icon-192.png",
+			"type": "image/png",
+			"sizes": "192x192",
+			"purpose": "any maskable"
+		},
+		{
+			"src": "/media/app/portfish-app-icon-512.png",
+			"type": "image/png",
+			"sizes": "512x512",
+			"purpose": "any maskable"
+		}
+	],
+	"scope": "https://portfish.net/",
+	"start_url": "/?source=pwa",
+	"background_color": "#ffffff",
+	"theme_color": "#1f72bc",
+	"display": "standalone",
+	"orientation": "any"
+}
+

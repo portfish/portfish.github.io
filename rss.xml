@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link href="https://portfish.net/rss.xml" rel="self" type="application/rss+xml" />
+		<title>Port Fish News</title>
+		<link>https://portfish.net</link>
+		<description>Port Fish is an independent record label based in Slovakia/Europe, specializing in electronic music of various styles such as ambient, chill-out, downtempo, and easy-listening.</description>
+		<language>en-us</language>
+		<copyright>Copyright 2012-20 Port Fish</copyright>
+		<pubDate>Thu, 12 Nov 2020 15:00:05 GMT</pubDate>
+		<lastBuildDate>Thu, 12 Nov 2020 15:00:05 GMT</lastBuildDate>
+		<generator>Portfish.net Site Generator</generator>
+		<docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+		<image>
+			<url>https://portfish.net/media/app/portfish-official-logo-blue-2048.png</url>
+			<title>Port Fish</title>
+			<link>https://portfish.net</link>
+		</image>
+	</channel>
+</rss>

@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://portfish.net/sitemap.xml

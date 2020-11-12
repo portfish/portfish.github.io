@@ -1,0 +1,22 @@
+{
+	"colors" : {
+		"header"    : {"text" : "#000000", "background" : "#ffffff", "link" : "#008000", "hover" : "#eaaf5f"},
+		"body"      : {"text" : "#000000", "background" : "#c0ccc0", "link" : "#008000", "hover" : "#ffffff", "separator" : "#eafff0", "separator_alt" : "#38c040", "separator_title" : "#008000"},
+		"sidebar"   : {"text" : "#000000", "background" : "#dce6dc", "link" : "#000000", "hover" : "#008000", "separator" : "#c0ccc0", "separator_alt" : "#ffffff"},
+		"footer"    : {"text" : "#f8f9fa", "background" : "#343a3c", "link" : "#eaaf5f", "hover" : "#ffffff", "separator" : "#505460", "separator_alt" : "#fabc34"},
+		"primary"   : "#008000",
+		"secondary" : "#eaaf5f",
+		"light"     : "#f8f9fa",
+		"dark"      : "#343a3c",
+		"menu"      : "#eaaf5f"
+	},
+	"font" : {
+		"family" : "Verdana",
+		"family_alt" : "Play:wght@400;700",
+		"style"  : "normal",
+		"weight" : "bolder"
+	},
+	"bootstrap" : {
+		"mode" : "light"
+	}
+}

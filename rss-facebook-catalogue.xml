@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+<channel>
+<title>Port Fish Music</title>
+<link>https://portfish.net</link>
+<description>Port Fish is an independent record label based in Slovakia/Europe, specializing in electronic music of various styles such as ambient, chill-out, downtempo, and easy-listening.</description>
+<item>
+<g:id>portfish-empireofsilence</g:id>
+<g:title>Empire Of Silence - the first album by Port Fish</g:title>
+<g:description>Empire Of Silence is the first released full length album by Port Fish, ambient | chillout | experimental band from Slovakia. It features well received tracks as Antarctic, and Oreada.</g:description>
+<g:link>https://portfish.net/empire-of-silence/</g:link>
+<g:image_link>https://portfish.net/media/portfish-empire-of-silence-cover.jpg</g:image_link>
+<g:brand>Port Fish</g:brand>
+<g:mpn>OHM-00001-LP-PFM-EMPRE</g:mpn>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>4.99 EUR</g:price>
+<g:shipping>
+<g:country>EU</g:country>
+<g:service>Digital Download</g:service>
+<g:price>0.00 EUR</g:price>
+</g:shipping>
+<g:shipping>
+<g:country>UK</g:country>
+<g:service>Digital Download</g:service>
+<g:price>0.00 GBP</g:price>
+</g:shipping>
+<g:shipping>
+<g:country>US</g:country>
+<g:service>Digital Download</g:service>
+<g:price>0.00 USD</g:price>
+</g:shipping>
+<g:shipping>
+<g:country>CA</g:country>
+<g:service>Digital Download</g:service>
+<g:price>0.00 CAD</g:price>
+</g:shipping>
+<g:shipping>
+<g:country>AU</g:country>
+<g:service>Digital Download</g:service>
+<g:price>0.00 AUD</g:price>
+</g:shipping>
+<g:google_product_category>Media &gt; Music &amp; Sound Recordings &gt; Digital Music Downloads</g:google_product_category>
+<g:fb_product_category>media &gt; music</g:fb_product_category>
+<g:product_type>Music &gt; Ambient &gt; Digital Download</g:product_type>
+<g:custom_label_0>Published by Port Fish</g:custom_label_0>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,9 @@
+[
+	{"type" : "soundcloud", "user" : "ohmophonia",               "url" : "https://soundcloud.com/ohmophonia"},
+	{"type" : "youtube",    "user" : "UCi-rXR8zED2Ma3w6wuyR-Ww", "url" : "https://www.youtube.com/channel/UCi-rXR8zED2Ma3w6wuyR-Ww?sub_confirmation=1"},
+	{"type" : "facebook",   "user" : "ohmophonia",               "url" : "https://www.facebook.com/ohmophonia"},
+	{"type" : "instagram",  "user" : "ohmophonia",               "url" : "https://www.instagram.com/ohmophonia/"},
+	{"type" : "twitter",    "user" : "ohmophonia",               "url" : "https://twitter.com/ohmophonia"},
+	{"type" : "pinterest",  "user" : "ohmophonia",               "url" : "https://www.pinterest.com/ohmophonia/"},
+	{"type" : "tumblr",     "user" : "ohmophonia",               "url" : "https://ohmophonia.tumblr.com/"}
+]

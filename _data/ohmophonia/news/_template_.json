@@ -1,0 +1,23 @@
+{
+	"slug"        : "/my-news/",
+	"title"       : "My News Title",
+	"description" : "My News Description",
+	"date"        : "2020-04-30T12:34:56",
+	"artists"     : [],
+	"tags"        : ["my", "own", "news", "template"],
+	"amps"        : "youtube",
+	"image"       : "=",
+	"video" : {
+		"id"          : "dyX0I0OYCrs",
+		"name"        : "test video name",
+		"description" : "test video description",
+		"duration"    : 600,
+		"thumbnail"   : "=="
+	},
+	"breadcrumb"  : {
+		"title" : "My News"
+	},
+	"seo" : {
+		"description" : "My News SEO Description"
+	}
+}

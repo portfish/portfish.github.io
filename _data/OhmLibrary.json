@@ -1,0 +1,220 @@
+{
+	"artists"  : [
+		{
+			"_featured" : true,
+			"uid"       : "portfish",
+			"slug"      : "/port-fish/",
+			"name"      : "Port Fish",
+			"genres"    : ["ambient", "chillout", "experimental"],
+			"members"   : [
+				{"name" : "Tomáš Rendek", "nick" : "Tomi",  "founder" : true, "start_date" : "2006", "end_date" : "present", "role" : ["synths / keyboards"], "photo" : "/media/portfish-member-tide.webp"},
+				{"name" : "Ľuboš Tilka",  "nick" : "Talki", "founder" : true, "start_date" : "2006", "end_date" : "present", "role" : ["synths / keyboards"], "photo" : "/media/portfish-member-flow.webp"}
+			],
+			"images" : {
+				"logo"  : "/media/portfish-logo-black.webp",
+				"image" : "/media/portfish-logo-black.webp",
+				"icon"  : "/media/portfish-icon-black.webp"
+			},
+			"seo" : {
+				"site" : {
+					"header"      : "Port Fish<span class=\"lfoseo\"> - ambient, chillout &amp; experimental music band</span>",
+					"title"       : "Port Fish | ambient, chillout &amp; experimental music band",
+					"description" : "Info, music and biography of Port Fish - ambient, chillout &amp; experimental music band with unique style, endorsed by Afterlife and Roger Sanchez from Deep Forest",
+					"image"       : "/media/portfish-logo-black.png"
+				},
+				"og" : {
+					"images" : [
+						{"file" : "/media/og-port-fish.jpg", "alt" : "Port Fish - ambient | chillout band", "dimensions" : { "width" : 1200, "height" : 628 }}
+					]
+				},
+				"twitter" : {
+				}
+			},
+			"links" : [
+				{"type" : "official",     "group" : "",       "name" : "Official Website", "url" : "http://portfish.net/"},
+				{"type" : "bandcamp",     "group" : "Music",  "name" : "BandCamp",         "url" : "http://portfishmusic.bandcamp.com/"},
+				{"type" : "soundcloud",   "group" : "Music",  "name" : "SoundCloud",       "url" : "https://soundcloud.com/portfishmusic"},
+				{"type" : "reverbnation", "group" : "Music",  "name" : "ReverbNation",     "url" : "https://www.reverbnation.com/portfishmusic"},
+				{"type" : "youtube",      "group" : "Social", "name" : "YouTube",          "url" : "https://www.youtube.com/portfishmusic?sub_confirmation=1"},
+				{"type" : "facebook",     "group" : "Social", "name" : "Facebook",         "url" : "https://www.facebook.com/portfishmusic/"},
+				{"type" : "instagram",    "group" : "Social", "name" : "Instagram",        "url" : "https://www.instagram.com/portfishmusic/"},
+				{"type" : "twitter",      "group" : "Social", "name" : "Twitter",          "url" : "https://twitter.com/portfish"}
+			]
+		},
+		{
+			"_featured" : true,
+			"uid"       : "ghizeh",
+			"slug"      : "/ghizeh/",
+			"name"      : "Ghizeh",
+			"genres"    : ["trip-hop", "downtempo"],
+			"members"   : [
+				{"name" : "Ghizeh", "founder" : true, "start_date" : "", "end_date" : "", "role" : ["keyboards", "computer"], "photo" : ""}
+			],
+			"images" : {
+				"logo"  : "/media/ghizeh-logo-black.webp",
+				"image" : "/media/ghizeh-logo-black.webp",
+				"icon"  : "/media/ghizeh-icon-black.webp"
+			},
+			"seo" : {
+				"site" : {
+					"header"      : "Ghizeh<span class=\"lfoseo\"> - trip-hop &amp; downtempo musician</span>",
+					"title"       : "Ghizeh | trip-hop &amp; downtempo musician",
+					"description" : "Info, music and biography of Ghizeh - very talented trip-hop and downtempo musician with incredible sense for details and striving for perfection.",
+					"image"       : "/media/ghizeh-logo-black.png"
+				},
+				"og" : {
+					"images" : [
+						{"file" : "/media/og-ghizeh.jpg", "alt" : "Ghizeh - trip-hop | downtempo artist", "dimensions" : { "width" : 1200, "height" : 628 }}
+					]
+				},
+				"twitter" : {
+				}
+			},
+			"links" : [
+				{"type" : "youtube", "group" : "Music", "name" : "YouTube Playlist", "url" : "https://www.youtube.com/playlist?list=PL1010B28FDED1728E&sub_confirmation=1"}
+			]
+		}
+	],
+	"releases" : [
+		{
+			"uid"         : "portfish-empireofsilence",
+			"slug"        : "/empire-of-silence/",
+			"_404_item"   : true,
+			"_home_item"  : 1,
+			"catalog_id"  : "OHM-00001-LP-PFM-EMPRE",
+			"type"        : "album",
+			"artist_uid"  : "portfish",
+			"title"       : "Empire Of Silence",
+			"subtitle"    : "",
+			"home_memo"   : "the first album",
+			"description" : "Empire Of Silence is the first released full length album by Port Fish, ambient | chillout | experimental band from Slovakia. It features well received tracks as Antarctic, and Oreada.",
+			"date"        : "2012-11-1",
+			"genres"      : ["ambient"],
+			"images" : {
+				"cover"       : "/media/portfish-empire-of-silence-cover.jpg",
+				"cover_small" : "/media/portfish-empire-of-silence-cover-small.jpg"
+			},
+			"tracks" : [
+				{"title" : "Coral Seal",        "time" : "6:01"},
+				{"title" : "Orpheus",           "time" : "6:06"},
+				{"title" : "World Of Pacific",  "time" : "4:59"},
+				{"title" : "Evening Flower",    "time" : "3:55"},
+				{"title" : "Antarctic",         "time" : "8:23"},
+				{"title" : "The Monkey Island", "time" : "5:10"},
+				{"title" : "E.N.D.",            "time" : "6:32"},
+				{"title" : "Odd",               "time" : "5:23"},
+				{"title" : "Empire Of Silence", "time" : "5:07"},
+				{"title" : "Oreada",            "time" : "7:09"}
+			],
+			"links" : [
+				{"type" : "official", "group" : "",                  "name" : "Official Webpage", "url" : "http://portfish.net/"},
+				{"type" : "bandcamp", "group" : "Download / Stream", "name" : "BandCamp",         "url" : "https://portfishmusic.bandcamp.com/album/empire-of-silence"},
+				{"type" : "discogs",  "group" : "Reference",         "name" : "Discogs",          "url" : "https://www.discogs.com/Port-Fish-Empire-Of-Silence/release/11975494"}
+			],
+			"buylinks" : [
+				{"store" : "BandCamp", "type" : "bandcamp", "price" : 4.99, "currency" : "EUR", "link" : "https://portfishmusic.bandcamp.com/album/empire-of-silence"}
+			],
+			"seo" : {
+				"site" : {
+					"header"      : "Empire Of Silence<span class=\"lfoseo\"> - first album by Port Fish</span>",
+					"title"       : "Empire Of Silence - first album by Port Fish",
+					"image"       : "/media/portfish-empire-of-silence-cover.jpg"
+				},
+				"og" : {
+					"images" : [
+						{"file" : "/media/og-port-fish-empire-of-silence.jpg", "alt" : "Empire Of Silence | album by Port Fish", "dimensions" : { "width" : 1200, "height" : 628 }}
+					]
+				},
+				"twitter" : {
+				}
+			}
+		},
+		{
+			"uid"         : "portfish-maybeyes",
+			"slug"        : "/maybe-yes/",
+			"_404_item"   : false,
+			"_home_item"  : 1,
+			"catalog_id"  : "",
+			"type"        : "remix",
+			"artist_uid"  : "portfish",
+			"title"       : "Maybe Yes",
+			"subtitle"    : "Everything's Different In Chill-Out World Mix",
+			"home_memo"   : "remix competition winner",
+			"description" : "Winning track from the remix competition conducted by legendary Slovak musician and music producer Laco Lučenič for his song Maybe Yes (Možno Áno)",
+			"date"        : "2012-11-1",
+			"genres"      : ["downtempo"],
+			"images" : {
+				"cover"       : "/media/portfish-maybe-yes-remix-cover.jpg",
+				"cover_small" : "/media/portfish-maybe-yes-remix-cover-small.jpg"
+			},
+			"tracks" : [
+				{"title" : "Maybe Yes (Everything's Different In Chill-Out World Mix)", "time" : "5:36"}
+			],
+			"links" : [
+				{"type" : "youtube", "group" : "Listen", "name" : "YouTube", "url" : "https://www.youtube.com/watch?v=u7FQSCUlYeI?sub_confirmation=1"}
+			],
+			"buylinks" : [
+			],
+			"seo" : {
+				"site" : {
+					"header"      : "Maybe Yes<span class=\"lfoseo\"> - remix by Port Fish</span>",
+					"title"       : "Maybe Yes - remix by Port Fish",
+					"image"       : "/media/portfish-maybe-yes-remix-cover.jpg"
+				},
+				"og" : {
+					"images" : [
+						{"file" : "/media/og-port-fish-maybe-yes-remix.jpg", "alt" : "Empire Of Silence | album by Port Fish", "dimensions" : { "width" : 1200, "height" : 628 }}
+					]
+				},
+				"twitter" : {
+				}
+			}
+		},
+		{
+			"uid"         : "ghizeh-spokenep",
+			"slug"        : "/spoken-ep/",
+			"_home_item"  : 0,
+			"catalog_id"  : "OHM-00002-EP-GZH-SPOKN",
+			"type"        : "ep",
+			"artist_uid"  : "ghizeh",
+			"title"       : "Spoken EP",
+			"subtitle"    : "",
+			"home_memo"   : "",
+			"description" : "Spoken EP is the first released EP by Ghizeh, trip-hop | downtempo artist from Slovakia. The EP features four great tracks - Spoken, Open, Empirion, and Birds.",
+			"date"        : "",
+			"genres"      : [],
+			"images" : {
+				"cover"       : "/media/ghizeh-spoken-ep-cover.jpg",
+				"cover_small" : "/media/ghizeh-spoken-ep-cover-small.jpg"
+			},
+			"tracks" : [
+				{"title" : "Spoken",   "time" : "4:32"},
+				{"title" : "Open",     "time" : "4:02"},
+				{"title" : "Empirion", "time" : "3:57"},
+				{"title" : "Birds",    "time" : "3:50"}
+			],
+			"links" : [
+				{"type" : "youtube", "group" : "Listen", "name" : "YouTube Playlist", "url" : "https://www.youtube.com/playlist?list=PL1010B28FDED1728E&sub_confirmation=1"}
+			],
+			"buylinks" : [
+			],
+			"seo" : {
+				"site" : {
+					"header"      : "Spoken EP<span class=\"lfoseo\"> - first release by Ghizeh</span>",
+					"title"       : "Spoken EP - first release by Ghizeh",
+					"image"       : "/media/ghizeh-spoken-ep-cover.jpg"
+				},
+				"og" : {
+					"images" : [
+						{"file" : "/media/og-ghizeh-spoken-ep.jpg", "alt" : "Spoken EP by Ghizeh", "dimensions" : { "width" : 1200, "height" : 628 }}
+					]
+				},
+				"twitter" : {
+				}
+			}
+		}
+	],
+	"events" : [
+		{"uid" : "_template_", "artist_uid" : "portfish", "slug" : "/one-cool-event/", "date" : "2020-10-01", "title" : "Glastonbury 2021", "photo" : "", "tags" : [], "description" : "", "url" : "http://", "tickets_url" : "http://", "location": {"name" : "", "latitude" : "", "longitude" : ""}}
+	]
+}

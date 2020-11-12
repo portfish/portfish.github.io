@@ -1,0 +1,28 @@
+{
+	"isOn"        : true,
+	"name"        : "",  "rem" : "LFoSite.name used if empty",
+	"shortName"   : "",  "rem" : "this.name or LFoSite.name used if empty",
+	"description" : "",  "rem" : "LFoSite.description used if empty",
+	"categories"  : [],  "rem" : "LFoSite.categories used if empty",
+	"scopeURL"    : "",  "rem" : "LFoSite.url used if empty",
+	"cacheName"   : "Ohmophonia-cache-v1",
+	"colors" : {
+		"theme"      : "c53636",
+		"background" : "ffffff"
+	},
+	"images" : {
+		"icon_144"         : "/media/app/ohmophonia-app-icon-144.png",
+		"icon_180"         : "/media/app/ohmophonia-app-icon-180.png",
+		"icon_192"         : "/media/app/ohmophonia-app-icon-192.png",
+		"icon_512"         : "/media/app/ohmophonia-app-icon-512.png",
+		"launch_1242x2688" : "/media/app/ohmophonia-launch-1242x2688.png", "rem" : "iPhone Xs Max (1242px x 2688px)",
+		"launch_828x1792"  : "/media/app/ohmophonia-launch-828x1792.png",  "rem" : "iPhone Xr (828px x 1792px)",
+		"launch_1125x2436" : "/media/app/ohmophonia-launch-1125x2436.png", "rem" : "iPhone X, Xs (1125px x 2436px)",
+		"launch_1242x2208" : "/media/app/ohmophonia-launch-1242x2208.png", "rem" : "iPhone 8 Plus, 7 Plus, 6s Plus, 6 Plus (1242px x 2208px)",
+		"launch_750x1334"  : "/media/app/ohmophonia-launch-750x1334.png",  "rem" : "iPhone 8, 7, 6s, 6 (750px x 1334px)",
+		"launch_2048x2732" : "/media/app/ohmophonia-launch-2048x2732.png", "rem" : "iPad Pro 12.9” (2048px x 2732px) ",
+		"launch_1668x2388" : "/media/app/ohmophonia-launch-1668x2388.png", "rem" : "iPad Pro 11” (1668px x 2388px)",
+		"launch_1668x2224" : "/media/app/ohmophonia-launch-1668x2224.png", "rem" : "iPad Pro 10.5” (1668px x 2224px)",
+		"launch_1536x2048" : "/media/app/ohmophonia-launch-1536x2048.png", "rem" : "iPad Mini, Air (1536px x 2048px)"
+	}
+}
