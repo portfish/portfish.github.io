@@ -11,10 +11,10 @@
 		"menu"      : "#eaaf5f"
 	},
 	"font" : {
-		"family" : "Verdana",
-		"family_alt" : "Play:wght@400;700",
-		"style"  : "normal",
-		"weight" : "bolder"
+		"websafe" : "Verdana",
+		"_google" : "Play:wght@400;700",
+		"style"   : "normal",
+		"weight"  : "bolder"
 	},
 	"bootstrap" : {
 		"mode" : "light"
