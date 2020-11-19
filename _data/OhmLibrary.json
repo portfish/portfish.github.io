@@ -31,7 +31,7 @@
 				}
 			},
 			"links" : [
-				{"type" : "official",     "group" : "",       "name" : "Official Website", "url" : "http://portfish.net/"},
+				{"type" : "official",     "group" : "",       "name" : "Official Website", "url" : "https://portfish.net/"},
 				{"type" : "bandcamp",     "group" : "Music",  "name" : "BandCamp",         "url" : "http://portfishmusic.bandcamp.com/"},
 				{"type" : "soundcloud",   "group" : "Music",  "name" : "SoundCloud",       "url" : "https://soundcloud.com/portfishmusic"},
 				{"type" : "reverbnation", "group" : "Music",  "name" : "ReverbNation",     "url" : "https://www.reverbnation.com/portfishmusic"},
@@ -82,6 +82,7 @@
 			"_404_item"   : true,
 			"_home_item"  : 1,
 			"catalog_id"  : "OHM-00001-LP-PFM-EMPRE",
+			"ean"         : "4250618809052",
 			"type"        : "album",
 			"artist_uid"  : "portfish",
 			"title"       : "Empire Of Silence",
@@ -107,7 +108,7 @@
 				{"title" : "Oreada",            "time" : "7:09"}
 			],
 			"links" : [
-				{"type" : "official", "group" : "",                  "name" : "Official Webpage", "url" : "http://portfish.net/"},
+				{"type" : "official", "group" : "",                  "name" : "Official Webpage", "url" : "https://portfish.net/empire-of-silence/"},
 				{"type" : "bandcamp", "group" : "Download / Stream", "name" : "BandCamp",         "url" : "https://portfishmusic.bandcamp.com/album/empire-of-silence"},
 				{"type" : "discogs",  "group" : "Reference",         "name" : "Discogs",          "url" : "https://www.discogs.com/Port-Fish-Empire-Of-Silence/release/11975494"}
 			],

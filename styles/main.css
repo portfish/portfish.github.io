@@ -37,7 +37,7 @@ body {
 	font-family: var(--font-family); font-style: var(--font-style); font-weight: var(--font-weight);
 }
 body a { color: var(--color-bodyLink) }
-body a:hover { color: var(--color-bodyHover) }
+body a:hover { color: var(--color-bodyHover); text-decoration: none }
 body hr { background-color: #505460 }
 body hr.alt { background-color: #000000 }
 body hr.title { background-color: #fabc34 }
