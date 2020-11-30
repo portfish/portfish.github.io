@@ -31,14 +31,17 @@
 				}
 			},
 			"links" : [
-				{"type" : "official",     "group" : "",       "name" : "Official Website", "url" : "https://portfish.net/"},
-				{"type" : "bandcamp",     "group" : "Music",  "name" : "BandCamp",         "url" : "http://portfishmusic.bandcamp.com/"},
-				{"type" : "soundcloud",   "group" : "Music",  "name" : "SoundCloud",       "url" : "https://soundcloud.com/portfishmusic"},
-				{"type" : "reverbnation", "group" : "Music",  "name" : "ReverbNation",     "url" : "https://www.reverbnation.com/portfishmusic"},
-				{"type" : "youtube",      "group" : "Social", "name" : "YouTube",          "url" : "https://www.youtube.com/portfishmusic?sub_confirmation=1"},
-				{"type" : "facebook",     "group" : "Social", "name" : "Facebook",         "url" : "https://www.facebook.com/portfishmusic/"},
-				{"type" : "instagram",    "group" : "Social", "name" : "Instagram",        "url" : "https://www.instagram.com/portfishmusic/"},
-				{"type" : "twitter",      "group" : "Social", "name" : "Twitter",          "url" : "https://twitter.com/portfish"}
+				{"type" : "official",     "group" : "",          "name" : "Official Website", "url" : "https://portfish.net/"},
+				{"type" : "bandcamp",     "group" : "Music",     "name" : "BandCamp",         "url" : "http://portfishmusic.bandcamp.com/"},
+				{"type" : "spotify",      "group" : "Music",     "name" : "Spotify",          "url" : "https://open.spotify.com/artist/1Q0i9nByhNZ2C4EvkdnIcQ"},
+				{"type" : "amazon",       "group" : "Music",     "name" : "Amazon",           "url" : "https://music.amazon.com/artists/B000RHOH4G/the-port-fish"},
+				{"type" : "soundcloud",   "group" : "Music",     "name" : "SoundCloud",       "url" : "https://soundcloud.com/portfishmusic"},
+				{"type" : "reverbnation", "group" : "Music",     "name" : "ReverbNation",     "url" : "https://www.reverbnation.com/portfishmusic"},
+				{"type" : "youtube",      "group" : "Social",    "name" : "YouTube",          "url" : "https://www.youtube.com/portfishmusic?sub_confirmation=1"},
+				{"type" : "facebook",     "group" : "Social",    "name" : "Facebook",         "url" : "https://www.facebook.com/portfishmusic/"},
+				{"type" : "instagram",    "group" : "Social",    "name" : "Instagram",        "url" : "https://www.instagram.com/portfishmusic/"},
+				{"type" : "twitter",      "group" : "Social",    "name" : "Twitter",          "url" : "https://twitter.com/portfish"},
+				{"type" : "feiyr",        "group" : "Reference", "name" : "Feiyr",            "url" : "https://www.feiyr.com/en/artist/Port+Fish/10044891.html"}
 			]
 		},
 		{
@@ -110,6 +113,8 @@
 			"links" : [
 				{"type" : "official", "group" : "",                  "name" : "Official Webpage", "url" : "https://portfish.net/empire-of-silence/"},
 				{"type" : "bandcamp", "group" : "Download / Stream", "name" : "BandCamp",         "url" : "https://portfishmusic.bandcamp.com/album/empire-of-silence"},
+				{"type" : "spotify",  "group" : "Download / Stream", "name" : "Spotify",          "url" : "https://open.spotify.com/album/1sPze20G9QhxohfQJ4zp0d"},
+				{"type" : "amazon",   "group" : "Download / Stream", "name" : "Amazon",           "url" : "https://music.amazon.com/albums/B08NHX1P8C"},
 				{"type" : "discogs",  "group" : "Reference",         "name" : "Discogs",          "url" : "https://www.discogs.com/Port-Fish-Empire-Of-Silence/release/11975494"}
 			],
 			"buylinks" : [
