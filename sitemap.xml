@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 	<url>
-		<loc>https://portfish.net/rss.xml</loc>
-		<lastmod>2021-02-24</lastmod>
-	</url>
-	<url>
 		<loc>https://portfish.net/rss-facebook-catalogue.xml</loc>
 		<lastmod>2021-02-24</lastmod>
 	</url>
@@ -17,35 +13,15 @@
 		<lastmod>2021-02-24</lastmod>
 	</url>
 	<url>
+		<loc>https://portfish.net/rss.xml</loc>
+		<lastmod>2021-02-24</lastmod>
+	</url>
+	<url>
 		<loc>https://portfish.net/404/</loc>
 		<lastmod>2021-02-24</lastmod>
 	</url>
 	<url>
 		<loc>https://portfish.net/amp/404/</loc>
-		<lastmod>2021-02-24</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/events/</loc>
-		<lastmod>2021-02-24</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/amp/events/</loc>
-		<lastmod>2021-02-24</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/</loc>
-		<lastmod>2021-02-24</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/amp/</loc>
-		<lastmod>2021-02-24</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/artists/</loc>
-		<lastmod>2021-02-24</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/amp/artists/</loc>
 		<lastmod>2021-02-24</lastmod>
 	</url>
 	<url>
@@ -57,11 +33,7 @@
 		<lastmod>2021-02-24</lastmod>
 	</url>
 	<url>
-		<loc>https://portfish.net/events/archive/</loc>
-		<lastmod>2021-02-24</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/amp/events/archive/</loc>
+		<loc>https://portfish.net/search/</loc>
 		<lastmod>2021-02-24</lastmod>
 	</url>
 	<url>
@@ -70,10 +42,6 @@
 	</url>
 	<url>
 		<loc>https://portfish.net/amp/music/</loc>
-		<lastmod>2021-02-24</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/search/</loc>
 		<lastmod>2021-02-24</lastmod>
 	</url>
 	<url>
@@ -93,31 +61,59 @@
 		<lastmod>2021-02-24</lastmod>
 	</url>
 	<url>
+		<loc>https://portfish.net/events/archive/</loc>
+		<lastmod>2021-02-24</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/amp/events/archive/</loc>
+		<lastmod>2021-02-24</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/artists/</loc>
+		<lastmod>2021-02-24</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/amp/artists/</loc>
+		<lastmod>2021-02-24</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/events/</loc>
+		<lastmod>2021-02-24</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/amp/events/</loc>
+		<lastmod>2021-02-24</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/</loc>
+		<lastmod>2021-02-24</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/amp/</loc>
+		<lastmod>2021-02-24</lastmod>
+	</url>
+	<url>
 		<loc>https://portfish.net/port-fish/rss.xml</loc>
 		<lastmod>2020-10-23</lastmod>
 	</url>
 	<url>
-		<loc>https://portfish.net/about/</loc>
+		<loc>https://portfish.net/amp/tag/ambient/</loc>
 		<lastmod>2021-02-24</lastmod>
 	</url>
 	<url>
-		<loc>https://portfish.net/amp/about/</loc>
+		<loc>https://portfish.net/amp/tag/chillout/</loc>
 		<lastmod>2021-02-24</lastmod>
 	</url>
 	<url>
-		<loc>https://portfish.net/amp/empire-of-silence/</loc>
+		<loc>https://portfish.net/amp/tag/experimental/</loc>
 		<lastmod>2021-02-24</lastmod>
 	</url>
 	<url>
-		<loc>https://portfish.net/amp/maybe-yes/</loc>
+		<loc>https://portfish.net/amp/tag/trip-hop/</loc>
 		<lastmod>2021-02-24</lastmod>
 	</url>
 	<url>
-		<loc>https://portfish.net/empire-of-silence/</loc>
-		<lastmod>2021-02-24</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/maybe-yes/</loc>
+		<loc>https://portfish.net/amp/tag/downtempo/</loc>
 		<lastmod>2021-02-24</lastmod>
 	</url>
 	<url>
@@ -141,23 +137,27 @@
 		<lastmod>2021-02-24</lastmod>
 	</url>
 	<url>
-		<loc>https://portfish.net/amp/tag/ambient/</loc>
+		<loc>https://portfish.net/amp/about/</loc>
 		<lastmod>2021-02-24</lastmod>
 	</url>
 	<url>
-		<loc>https://portfish.net/amp/tag/chillout/</loc>
+		<loc>https://portfish.net/about/</loc>
 		<lastmod>2021-02-24</lastmod>
 	</url>
 	<url>
-		<loc>https://portfish.net/amp/tag/experimental/</loc>
+		<loc>https://portfish.net/amp/empire-of-silence/</loc>
 		<lastmod>2021-02-24</lastmod>
 	</url>
 	<url>
-		<loc>https://portfish.net/amp/tag/trip-hop/</loc>
+		<loc>https://portfish.net/amp/maybe-yes/</loc>
 		<lastmod>2021-02-24</lastmod>
 	</url>
 	<url>
-		<loc>https://portfish.net/amp/tag/downtempo/</loc>
+		<loc>https://portfish.net/empire-of-silence/</loc>
+		<lastmod>2021-02-24</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/maybe-yes/</loc>
 		<lastmod>2021-02-24</lastmod>
 	</url>
 </urlset>
