@@ -147,11 +147,11 @@ lfoseo, figcaption, .lfoseo { display: inline-block; width: var(--lfo-mobile-seo
 .lfo-icon-56   { background-size: 56px 56px; width: 56px; height: 56px; }
 .lfo-icon-64   { background-size: 64px 64px; width: 64px; height: 64px; }
 .lfo-icon-auto { background-size: inherit inherit; width: inherit; height: inherit; }
-.lfo-icon-rating-star-full { background-image: url('/media/fa_svgs/solid/star.svg') }
-.lfo-icon-rating-star-half { background-image: url('/media/fa_svgs/solid/star-half-alt.svg') }
-.lfo-icon-rating-star-none { background-image: url('/media/fa_svgs/regular/star.svg') }
-.lfo-icon-favorite-on { background-image: url('/media/fa_svgs/solid/heart.svg') }
-.lfo-icon-favorite-off { background-image: url('/media/fa_svgs/regular/heart.svg') }
+.lfo-icon-rating-star-full { background-image: url('/media/svgs/solid/star.svg') }
+.lfo-icon-rating-star-half { background-image: url('/media/svgs/solid/star-half-alt.svg') }
+.lfo-icon-rating-star-none { background-image: url('/media/svgs/regular/star.svg') }
+.lfo-icon-favorite-on { background-image: url('/media/svgs/solid/heart.svg') }
+.lfo-icon-favorite-off { background-image: url('/media/svgs/regular/heart.svg') }
 /*  color to filters: https://codepen.io/sosuke/pen/Pjoqqp  */
 .lfo-icon-white, .lfo-icon-over-white:hover {filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(167deg) brightness(106%) contrast(102%)}
 .lfo-icon-black, .lfo-icon-over-black:hover {filter: invert(0%) sepia(0%) saturate(0%) hue-rotate(324deg) brightness(96%) contrast(104%)}

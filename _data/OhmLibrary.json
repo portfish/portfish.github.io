@@ -34,13 +34,21 @@
 				{"type" : "official",     "group" : "",          "name" : "Official Website", "url" : "https://portfish.net/"},
 				{"type" : "bandcamp",     "group" : "Music",     "name" : "BandCamp",         "url" : "http://portfishmusic.bandcamp.com/"},
 				{"type" : "spotify",      "group" : "Music",     "name" : "Spotify",          "url" : "https://open.spotify.com/artist/1Q0i9nByhNZ2C4EvkdnIcQ"},
+				{"type" : "applemusic",   "group" : "Music",     "name" : "Apple Music",      "url" : "https://music.apple.com/us/artist/port-fish/1553309417"},
 				{"type" : "amazon",       "group" : "Music",     "name" : "Amazon",           "url" : "https://music.amazon.com/artists/B000RHOH4G/the-port-fish"},
 				{"type" : "soundcloud",   "group" : "Music",     "name" : "SoundCloud",       "url" : "https://soundcloud.com/portfishmusic"},
+				{"type" : "junodownload", "group" : "Music",     "name" : "JunoDownload",     "url" : "https://www.junodownload.com/artists/Port+Fish/"},
+				{"type" : "deezer",       "group" : "Music",     "name" : "Deezer",           "url" : "https://www.deezer.com/en/artist/113536792"},
+				{"type" : "tidal",        "group" : "Music",     "name" : "Tidal",            "url" : "https://tidal.com/browse/artist/22202230"},
+				{"type" : "audiomack",    "group" : "Music",     "name" : "Audiomack",        "url" : "https://audiomack.com/port-fish/"},
 				{"type" : "reverbnation", "group" : "Music",     "name" : "ReverbNation",     "url" : "https://www.reverbnation.com/portfishmusic"},
+				{"type" : "n1m",          "group" : "Music",     "name" : "Number1Music",     "url" : "https://www.n1m.com/portfish"},
+				{"type" : "yandex",       "group" : "Music",     "name" : "Yandex",           "url" : "https://music.yandex.com/artist/10349708"},
 				{"type" : "youtube",      "group" : "Social",    "name" : "YouTube",          "url" : "https://www.youtube.com/portfishmusic?sub_confirmation=1"},
 				{"type" : "facebook",     "group" : "Social",    "name" : "Facebook",         "url" : "https://www.facebook.com/portfishmusic/"},
 				{"type" : "instagram",    "group" : "Social",    "name" : "Instagram",        "url" : "https://www.instagram.com/portfishmusic/"},
 				{"type" : "twitter",      "group" : "Social",    "name" : "Twitter",          "url" : "https://twitter.com/portfish"},
+				{"type" : "discogs",      "group" : "Reference", "name" : "Discogs",          "url" : "https://www.discogs.com/artist/6474356-Port-Fish"},
 				{"type" : "feiyr",        "group" : "Reference", "name" : "Feiyr",            "url" : "https://www.feiyr.com/en/artist/Port+Fish/10044891.html"}
 			]
 		},
@@ -111,14 +119,22 @@
 				{"title" : "Oreada",            "time" : "7:09"}
 			],
 			"links" : [
-				{"type" : "official", "group" : "",                  "name" : "Official Webpage", "url" : "https://portfish.net/empire-of-silence/"},
-				{"type" : "bandcamp", "group" : "Download / Stream", "name" : "BandCamp",         "url" : "https://portfishmusic.bandcamp.com/album/empire-of-silence"},
-				{"type" : "spotify",  "group" : "Download / Stream", "name" : "Spotify",          "url" : "https://open.spotify.com/album/1sPze20G9QhxohfQJ4zp0d"},
-				{"type" : "amazon",   "group" : "Download / Stream", "name" : "Amazon",           "url" : "https://music.amazon.com/albums/B08NHX1P8C"},
-				{"type" : "discogs",  "group" : "Reference",         "name" : "Discogs",          "url" : "https://www.discogs.com/Port-Fish-Empire-Of-Silence/release/11975494"}
+				{"type" : "official",     "group" : "",                  "name" : "Official Webpage", "url" : "https://portfish.net/empire-of-silence/"},
+				{"type" : "bandcamp",     "group" : "Download / Stream", "name" : "BandCamp",         "url" : "https://portfishmusic.bandcamp.com/album/empire-of-silence"},
+				{"type" : "spotify",      "group" : "Download / Stream", "name" : "Spotify",          "url" : "https://open.spotify.com/album/1sPze20G9QhxohfQJ4zp0d"},
+				{"type" : "applemusic",   "group" : "Download / Stream", "name" : "Apple Music",      "url" : "https://music.apple.com/us/album/empire-of-silence/1553309416"},
+				{"type" : "amazon",       "group" : "Download / Stream", "name" : "Amazon",           "url" : "https://music.amazon.com/albums/B08NHX1P8C"},
+				{"type" : "junodownload", "group" : "Download / Stream", "name" : "JunoDownload",     "url" : "https://www.junodownload.com/products/port-fish-empire-of-silence/4848252-02/"},
+				{"type" : "deezer",       "group" : "Download / Stream", "name" : "Deezer",           "url" : "http://www.deezer.com/album/186600062"},
+				{"type" : "tidal",        "group" : "Download / Stream", "name" : "Tidal",            "url" : "http://www.tidal.com/album/162329662"},
+				{"type" : "pandora",      "group" : "Download / Stream", "name" : "Pandora",          "url" : "https://www.pandora.com/artist/port-fish/empire-of-silence/ALVdbw6bkmZP3Vk"},
+				{"type" : "audiomack",    "group" : "Download / Stream", "name" : "Audiomack",        "url" : "https://audiomack.com/port-fish/album/empire-of-silence"},
+				{"type" : "yandex",       "group" : "Download / Stream", "name" : "Yandex",           "url" : "https://music.yandex.com/album/12804838"},
+				{"type" : "discogs",      "group" : "Reference",         "name" : "Discogs",          "url" : "https://www.discogs.com/Port-Fish-Empire-Of-Silence/release/11975494"}
 			],
 			"buylinks" : [
-				{"store" : "BandCamp", "type" : "bandcamp", "price" : 4.99, "currency" : "EUR", "link" : "https://portfishmusic.bandcamp.com/album/empire-of-silence"}
+				{"store" : "BandCamp",  "type" : "bandcamp",  "price" : 4.99, "currency" : "EUR", "link" : "https://portfishmusic.bandcamp.com/album/empire-of-silence"},
+				{"store" : "Teespring", "type" : "teespring", "price" : 6.61, "currency" : "EUR", "link" : "https://teespring.com/portfish-empire-of-silence-lp"}
 			],
 			"seo" : {
 				"site" : {
