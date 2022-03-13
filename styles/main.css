@@ -253,6 +253,9 @@ div.fill img {
 .lfoPlayerRow .lfoPlayerIcon {
 	visibility: hidden;
 }
+.lfoPlayerRow:hover {
+	color: var(--color-primary);
+}
 .lfoPlayerRow:hover .lfoPlayerIcon {
 	visibility: visible;
 }

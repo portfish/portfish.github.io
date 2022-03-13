@@ -93,6 +93,7 @@
 				}
 			},
 			"links" : [
+				{"type" : "audius",  "group" : "Music", "name" : "Audius",           "url" : "https://audius.co/portfishmusic/album/spoken-ep-115442"},
 				{"type" : "youtube", "group" : "Music", "name" : "YouTube Playlist", "url" : "https://www.youtube.com/playlist?list=PL1010B28FDED1728E&sub_confirmation=1"}
 			]
 		}
@@ -190,7 +191,8 @@
 				{"title" : "Maybe Yes (Everything's Different In Chill-Out World Mix)", "time" : "5:36", "audiusID" : "3EAPV"}
 			],
 			"links" : [
-				{"type" : "youtube", "group" : "Listen", "name" : "YouTube", "url" : "https://www.youtube.com/watch?v=u7FQSCUlYeI?sub_confirmation=1"}
+				{"type" : "audius",  "group" : "Stream", "name" : "Audius",  "url" : "https://audius.co/portfishmusic/maybe-yes-everythings-different-in-chill-out-world-mix"},
+				{"type" : "youtube", "group" : "Stream", "name" : "YouTube", "url" : "https://www.youtube.com/watch?v=u7FQSCUlYeI?sub_confirmation=1"}
 			],
 			"buylinks" : [
 			],
@@ -227,13 +229,14 @@
 				"cover_small" : "/media/ghizeh-spoken-ep-cover-small.jpg"
 			},
 			"tracks" : [
-				{"title" : "Spoken",   "time" : "4:32"},
-				{"title" : "Open",     "time" : "4:02"},
-				{"title" : "Empirion", "time" : "3:57"},
-				{"title" : "Birds",    "time" : "3:50"}
+				{"title" : "Spoken",   "time" : "4:32", "audiusID" : "2jAG0"},
+				{"title" : "Open",     "time" : "4:02", "audiusID" : "y4dNr"},
+				{"title" : "Empirion", "time" : "3:57", "audiusID" : "jYzmM"},
+				{"title" : "Birds",    "time" : "3:50", "audiusID" : "wzVyb"}
 			],
 			"links" : [
-				{"type" : "youtube", "group" : "Listen", "name" : "YouTube Playlist", "url" : "https://www.youtube.com/playlist?list=PL1010B28FDED1728E&sub_confirmation=1"}
+				{"type" : "audius",  "group" : "Stream", "name" : "Audius",           "url" : "https://audius.co/portfishmusic/album/spoken-ep-115442"},
+				{"type" : "youtube", "group" : "Stream", "name" : "YouTube Playlist", "url" : "https://www.youtube.com/playlist?list=PL1010B28FDED1728E&sub_confirmation=1"}
 			],
 			"buylinks" : [
 			],

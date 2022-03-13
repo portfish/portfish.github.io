@@ -5,11 +5,11 @@
 		<lastmod>2022-03-13</lastmod>
 	</url>
 	<url>
-		<loc>https://portfish.net/rss.xml</loc>
+		<loc>https://portfish.net/rss-events.xml</loc>
 		<lastmod>2022-03-13</lastmod>
 	</url>
 	<url>
-		<loc>https://portfish.net/rss-events.xml</loc>
+		<loc>https://portfish.net/rss.xml</loc>
 		<lastmod>2022-03-13</lastmod>
 	</url>
 	<url>
@@ -33,19 +33,19 @@
 		<lastmod>2022-03-13</lastmod>
 	</url>
 	<url>
+		<loc>https://portfish.net/</loc>
+		<lastmod>2022-03-13</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/amp/</loc>
+		<lastmod>2022-03-13</lastmod>
+	</url>
+	<url>
 		<loc>https://portfish.net/events/</loc>
 		<lastmod>2022-03-13</lastmod>
 	</url>
 	<url>
 		<loc>https://portfish.net/amp/events/</loc>
-		<lastmod>2022-03-13</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/music/</loc>
-		<lastmod>2022-03-13</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/amp/music/</loc>
 		<lastmod>2022-03-13</lastmod>
 	</url>
 	<url>
@@ -57,15 +57,23 @@
 		<lastmod>2022-03-13</lastmod>
 	</url>
 	<url>
+		<loc>https://portfish.net/music/</loc>
+		<lastmod>2022-03-13</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/amp/music/</loc>
+		<lastmod>2022-03-13</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/search/</loc>
+		<lastmod>2022-03-13</lastmod>
+	</url>
+	<url>
 		<loc>https://portfish.net/events/archive/</loc>
 		<lastmod>2022-03-13</lastmod>
 	</url>
 	<url>
 		<loc>https://portfish.net/amp/events/archive/</loc>
-		<lastmod>2022-03-13</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/search/</loc>
 		<lastmod>2022-03-13</lastmod>
 	</url>
 	<url>
@@ -85,23 +93,23 @@
 		<lastmod>2022-03-13</lastmod>
 	</url>
 	<url>
-		<loc>https://portfish.net/</loc>
-		<lastmod>2022-03-13</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/amp/</loc>
-		<lastmod>2022-03-13</lastmod>
-	</url>
-	<url>
 		<loc>https://portfish.net/about/rss.xml</loc>
 		<lastmod>2020-10-22</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/about/</loc>
+		<lastmod>2022-03-13</lastmod>
 	</url>
 	<url>
 		<loc>https://portfish.net/amp/about/</loc>
 		<lastmod>2022-03-13</lastmod>
 	</url>
 	<url>
-		<loc>https://portfish.net/about/</loc>
+		<loc>https://portfish.net/empire-of-silence/</loc>
+		<lastmod>2022-03-13</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/maybe-yes/</loc>
 		<lastmod>2022-03-13</lastmod>
 	</url>
 	<url>
@@ -150,14 +158,6 @@
 	</url>
 	<url>
 		<loc>https://portfish.net/amp/maybe-yes/</loc>
-		<lastmod>2022-03-13</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/empire-of-silence/</loc>
-		<lastmod>2022-03-13</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/maybe-yes/</loc>
 		<lastmod>2022-03-13</lastmod>
 	</url>
 	<url>
