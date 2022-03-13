@@ -36,7 +36,7 @@ body {
 	color: var(--color-bodyText); background-color: var(--color-bodyBackground);
 	font-family: var(--font-family); font-style: var(--font-style); font-weight: var(--font-weight);
 }
-body a { color: var(--color-bodyLink) }
+body a { color: var(--color-bodyLink); text-decoration: none }
 body a:hover { color: var(--color-bodyHover); text-decoration: none }
 body hr { background-color: #505460 }
 body hr.alt { background-color: #000000 }
@@ -152,13 +152,15 @@ lfoseo, figcaption, .lfoseo { display: inline-block; width: var(--lfo-mobile-seo
 .lfo-icon-rating-star-none { background-image: url('/media/svgs/regular/star.svg') }
 .lfo-icon-favorite-on { background-image: url('/media/svgs/solid/heart.svg') }
 .lfo-icon-favorite-off { background-image: url('/media/svgs/regular/heart.svg') }
+.lfo-icon-trash { background-image: url('/media/svgs/solid/trash.svg') }
 /*  color to filters: https://codepen.io/sosuke/pen/Pjoqqp  */
 .lfo-icon-white, .lfo-icon-over-white:hover {filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(167deg) brightness(106%) contrast(102%)}
 .lfo-icon-black, .lfo-icon-over-black:hover {filter: invert(0%) sepia(0%) saturate(0%) hue-rotate(324deg) brightness(96%) contrast(104%)}
 .lfo-icon-over-transform:hover { transform: scale(1.25) }
 
 /*  Bootstrap  */
-.jumbotron { background-color: var(--color-sidebarBackground) }
+.nav-link { color: var(--color-bodyLink) }
+.nav-link:hover { color: var(--color-bodyHover) }
 .border { border: 1px solid #505460!important; } 
 .dropdown-item:focus, .dropdown-item:hover { background-color: #fabc34 }
 .dropdown:hover .dropdown-menu {
@@ -248,6 +250,12 @@ div.fill img {
 	min-height: 100%
 }
 
+.lfoPlayerRow .lfoPlayerIcon {
+	visibility: hidden;
+}
+.lfoPlayerRow:hover .lfoPlayerIcon {
+	visibility: visible;
+}
 
 /*  Bootstrap  */
 .btn-primary {
