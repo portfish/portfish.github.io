@@ -1,9 +1,9 @@
 [
-	{"type" : "soundcloud", "user" : "ohmophonia",               "url" : "https://soundcloud.com/ohmophonia"},
-	{"type" : "youtube",    "user" : "UCi-rXR8zED2Ma3w6wuyR-Ww", "url" : "https://www.youtube.com/channel/UCi-rXR8zED2Ma3w6wuyR-Ww?sub_confirmation=1"},
-	{"type" : "facebook",   "user" : "ohmophonia",               "url" : "https://www.facebook.com/ohmophonia"},
-	{"type" : "instagram",  "user" : "ohmophonia",               "url" : "https://www.instagram.com/ohmophonia/"},
-	{"type" : "twitter",    "user" : "ohmophonia",               "url" : "https://twitter.com/ohmophonia"},
-	{"type" : "pinterest",  "user" : "ohmophonia",               "url" : "https://www.pinterest.com/ohmophonia/"},
-	{"type" : "tumblr",     "user" : "ohmophonia",               "url" : "https://ohmophonia.tumblr.com/"}
+	{"type" : "soundcloud", "group" : "Social", "name" : "SoundCloud", "user" : "ohmophonia",               "visible" : ["info", "head", "home"], "url" : "https://soundcloud.com/ohmophonia"},
+	{"type" : "youtube",    "group" : "Social", "name" : "YouTube",    "user" : "UCi-rXR8zED2Ma3w6wuyR-Ww", "visible" : ["info", "head", "home"], "url" : "https://www.youtube.com/channel/UCi-rXR8zED2Ma3w6wuyR-Ww?sub_confirmation=1"},
+	{"type" : "facebook",   "group" : "Social", "name" : "Facebook",   "user" : "ohmophonia",               "visible" : ["info", "head", "home"], "url" : "https://www.facebook.com/ohmophonia"},
+	{"type" : "instagram",  "group" : "Social", "name" : "Instagram",  "user" : "ohmophonia",               "visible" : ["info", "head", "home"], "url" : "https://www.instagram.com/ohmophonia/"},
+	{"type" : "twitter",    "group" : "Social", "name" : "Twitter",    "user" : "ohmophonia",               "visible" : ["info", "head", "home"], "url" : "https://twitter.com/ohmophonia"},
+	{"type" : "pinterest",  "group" : "Social", "name" : "Pinterest",  "user" : "ohmophonia",               "visible" : ["info", "head", "home"], "url" : "https://www.pinterest.com/ohmophonia/"},
+	{"type" : "tumblr",     "group" : "Social", "name" : "Tumblr",     "user" : "ohmophonia",               "visible" : ["info", "head", "home"], "url" : "https://ohmophonia.tumblr.com/"}
 ]
