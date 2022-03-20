@@ -224,21 +224,5 @@
 			<image:title>Maybe Yes official cover art</image:title>
 		</image:image>
 	</url>
-	<url>
-		<loc>https://portfish.net/spoken-ep/</loc>
-		<lastmod>2022-03-13</lastmod>
-		<image:image>
-			<image:loc>https://portfish.net/media/ghizeh-spoken-ep-cover.jpg</image:loc>
-			<image:title>Spoken EP official cover art</image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://portfish.net/amp/spoken-ep/</loc>
-		<lastmod>2022-03-13</lastmod>
-		<image:image>
-			<image:loc>https://portfish.net/media/ghizeh-spoken-ep-cover.jpg</image:loc>
-			<image:title>Spoken EP official cover art</image:title>
-		</image:image>
-	</url>
 </urlset>
 
