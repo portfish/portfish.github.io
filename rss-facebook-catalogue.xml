@@ -44,6 +44,46 @@
 <g:fb_product_category>media &gt; music</g:fb_product_category>
 <g:product_type>Music &gt; Ambient &gt; Digital Download</g:product_type>
 <g:custom_label_0>Published by Port Fish</g:custom_label_0>
+</item><item>
+<g:id>portfish-maybeyes</g:id>
+<g:title>Maybe Yes (Everything's Different In Chill-Out World Mix) - remix competition winner by Port Fish</g:title>
+<g:description>Winning track from the remix competition conducted by legendary Slovak musician and music producer Laco Lučenič for his song Maybe Yes (Možno Áno)</g:description>
+<g:link>https://portfish.net/maybe-yes/</g:link>
+<g:image_link>https://portfish.net/media/portfish-maybe-yes-remix-cover.jpg</g:image_link>
+<g:brand>Port Fish</g:brand>
+<g:mpn></g:mpn>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>1 EUR</g:price>
+<g:shipping>
+<g:country>EU</g:country>
+<g:service>Digital Download</g:service>
+<g:price>0.00 EUR</g:price>
+</g:shipping>
+<g:shipping>
+<g:country>UK</g:country>
+<g:service>Digital Download</g:service>
+<g:price>0.00 GBP</g:price>
+</g:shipping>
+<g:shipping>
+<g:country>US</g:country>
+<g:service>Digital Download</g:service>
+<g:price>0.00 USD</g:price>
+</g:shipping>
+<g:shipping>
+<g:country>CA</g:country>
+<g:service>Digital Download</g:service>
+<g:price>0.00 CAD</g:price>
+</g:shipping>
+<g:shipping>
+<g:country>AU</g:country>
+<g:service>Digital Download</g:service>
+<g:price>0.00 AUD</g:price>
+</g:shipping>
+<g:google_product_category>Media &gt; Music &amp; Sound Recordings &gt; Digital Music Downloads</g:google_product_category>
+<g:fb_product_category>media &gt; music</g:fb_product_category>
+<g:product_type>Music &gt; Downtempo &gt; Digital Download</g:product_type>
+<g:custom_label_0>Published by Port Fish</g:custom_label_0>
 </item>
 </channel>
 </rss>

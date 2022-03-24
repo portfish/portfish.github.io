@@ -191,10 +191,13 @@
 				{"title" : "Maybe Yes (Everything's Different In Chill-Out World Mix)", "time" : "5:36", "audiusID" : "3EAPV"}
 			],
 			"links" : [
-				{"type" : "audius",  "group" : "Stream", "name" : "Audius",  "url" : "https://audius.co/portfishmusic/maybe-yes-everythings-different-in-chill-out-world-mix"},
-				{"type" : "youtube", "group" : "Stream", "name" : "YouTube", "url" : "https://www.youtube.com/watch?v=u7FQSCUlYeI?sub_confirmation=1"}
+				{"type" : "bandcamp",  "group" : "Download / Stream", "name" : "BandCamp",  "url" : "https://portfishmusic.bandcamp.com/track/maybe-yes"},
+				{"type" : "audius",    "group" : "Stream",            "name" : "Audius",    "url" : "https://audius.co/portfishmusic/maybe-yes-everythings-different-in-chill-out-world-mix"},
+				{"type" : "youtube",   "group" : "Stream",            "name" : "YouTube",   "url" : "https://www.youtube.com/watch?v=u7FQSCUlYeI?sub_confirmation=1"},
+				{"type" : "audiomack", "group" : "Stream",            "name" : "Audiomack", "url" : "https://audiomack.com/port-fish/song/maybe-yes-everythings-different-in-chill-out-world-mix"}
 			],
 			"buylinks" : [
+				{"store" : "BandCamp",   "type" : "bandcamp",  "price" : 1.00, "currency" : "EUR", "link" : "https://portfishmusic.bandcamp.com/track/maybe-yes"}
 			],
 			"seo" : {
 				"site" : {
