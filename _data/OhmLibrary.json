@@ -35,7 +35,7 @@
 				{"type" : "spotify",       "group" : "Music",     "name" : "Spotify",          "user" : "",              "visible" : ["info", "head"],         "url" : "https://open.spotify.com/artist/1Q0i9nByhNZ2C4EvkdnIcQ"},
 				{"type" : "applemusic",    "group" : "Music",     "name" : "Apple Music",      "user" : "",              "visible" : ["info", "head"],         "url" : "https://music.apple.com/us/artist/port-fish/1553309417"},
 				{"type" : "bandcamp",      "group" : "Music",     "name" : "BandCamp",         "user" : "portfishmusic", "visible" : ["info", "head"],         "url" : "https://portfishmusic.bandcamp.com/"},
-				{"type" : "audius",        "group" : "Music",     "name" : "Audius",           "user" : "portfishmusic", "visible" : ["info"],                 "url" : "https://audius.co/portfishmusic"},
+				{"type" : "gumroad",       "group" : "Music",     "name" : "Gumroad",          "user" : "portfishmusic", "visible" : ["info"],                 "url" : "https://portfishmusic.gumroad.com/"},
 				{"type" : "amazon",        "group" : "Music",     "name" : "Amazon",           "user" : "",              "visible" : ["info"],                 "url" : "https://music.amazon.com/artists/B000RHOH4G/the-port-fish"},
 				{"type" : "youtubemusic",  "group" : "Music",     "name" : "YouTube Music",    "user" : "",              "visible" : ["info"],                 "url" : "https://music.youtube.com/channel/UCCPS1SYAJXyLFdj7jv6ZgXQ"},
 				{"type" : "soundcloud",    "group" : "Music",     "name" : "SoundCloud",       "user" : "portfishmusic", "visible" : ["info", "head"],         "url" : "https://soundcloud.com/portfishmusic"},
@@ -45,6 +45,7 @@
 				{"type" : "napster",       "group" : "Music",     "name" : "Napster",          "user" : "",              "visible" : ["info"],                 "url" : "https://us.napster.com/artist/the-port-fish"},
 				{"type" : "pandora",       "group" : "Music",     "name" : "Pandora",          "user" : "",              "visible" : ["info"],                 "url" : "https://www.pandora.com/artist/port-fish/AR2VVqjmrl2k37V"},
 				{"type" : "audiomack",     "group" : "Music",     "name" : "Audiomack",        "user" : "port-fish",     "visible" : ["info"],                 "url" : "https://audiomack.com/port-fish/"},
+				{"type" : "audius",        "group" : "Music",     "name" : "Audius",           "user" : "portfishmusic", "visible" : ["info"],                 "url" : "https://audius.co/portfishmusic"},
 				{"type" : "reverbnation",  "group" : "Music",     "name" : "ReverbNation",     "user" : "portfishmusic", "visible" : ["info", "home"],         "url" : "https://www.reverbnation.com/portfishmusic"},
 				{"type" : "yandex",        "group" : "Music",     "name" : "Yandex",           "user" : "",              "visible" : ["info"],                 "url" : "https://music.yandex.com/artist/10349708"},
 				{"type" : "youtube",       "group" : "Social",    "name" : "YouTube",          "user" : "portfishmusic", "visible" : ["info", "head", "home"], "url" : "https://www.youtube.com/portfishmusic?sub_confirmation=1"},
@@ -119,46 +120,49 @@
 				"cover_small" : "/media/portfish-empire-of-silence-cover-small.jpg"
 			},
 			"tracks" : [
-				{"title" : "Coral Seal",        "time" : "6:01", "audiusID" : "bKpqy"},
-				{"title" : "Orpheus",           "time" : "6:06", "audiusID" : "K7Kyy"},
-				{"title" : "World Of Pacific",  "time" : "4:59", "audiusID" : "5zQb6"},
-				{"title" : "Evening Flower",    "time" : "3:55", "audiusID" : "abAyQ"},
-				{"title" : "Antarctic",         "time" : "8:23", "audiusID" : "J75y2"},
-				{"title" : "The Monkey Island", "time" : "5:10", "audiusID" : "Q04y9"},
-				{"title" : "E.N.D.",            "time" : "6:32", "audiusID" : "ljzyb"},
-				{"title" : "Odd",               "time" : "5:23", "audiusID" : "WYQoj"},
-				{"title" : "Empire Of Silence", "time" : "5:07", "audiusID" : "NVzyN"},
-				{"title" : "Oreada",            "time" : "7:09", "audiusID" : "9kRJ0"}
+				{"uid" : "pf-eos-01", "title" : "Coral Seal",        "time" : "6:01", "audiusID" : "bKpqy"},
+				{"uid" : "pf-eos-02", "title" : "Orpheus",           "time" : "6:06", "audiusID" : "K7Kyy"},
+				{"uid" : "pf-eos-03", "title" : "World Of Pacific",  "time" : "4:59", "audiusID" : "5zQb6"},
+				{"uid" : "pf-eos-04", "title" : "Evening Flower",    "time" : "3:55", "audiusID" : "abAyQ"},
+				{"uid" : "pf-eos-05", "title" : "Antarctic",         "time" : "8:23", "audiusID" : "J75y2"},
+				{"uid" : "pf-eos-06", "title" : "The Monkey Island", "time" : "5:10", "audiusID" : "Q04y9"},
+				{"uid" : "pf-eos-07", "title" : "E.N.D.",            "time" : "6:32", "audiusID" : "ljzyb"},
+				{"uid" : "pf-eos-08", "title" : "Odd",               "time" : "5:23", "audiusID" : "WYQoj"},
+				{"uid" : "pf-eos-09", "title" : "Empire Of Silence", "time" : "5:07", "audiusID" : "NVzyN"},
+				{"uid" : "pf-eos-10", "title" : "Oreada",            "time" : "7:09", "audiusID" : "9kRJ0"}
 			],
 			"links" : [
 				{"type" : "official",     "group" : "",                  "name" : "Official Webpage", "url" : "https://portfish.net/empire-of-silence/"},
-				{"type" : "original",     "group" : "Download / Stream", "name" : "Original MP3s",    "url" : "https://portfish.launchcart.store/empire-of-silence-lp/p/zoq0de"},
+				{"type" : "original",     "group" : "Download / Stream", "name" : "Original MP3/AAC", "url" : "https://portfishmusic.gumroad.com/l/empire-of-silence"},
 				{"type" : "bandcamp",     "group" : "Download / Stream", "name" : "BandCamp",         "url" : "https://portfishmusic.bandcamp.com/album/empire-of-silence"},
-				{"type" : "audius",       "group" : "Download / Stream", "name" : "Audius",           "url" : "https://audius.co/portfishmusic/album/empire-of-silence-75665"},
-				{"type" : "spotify",      "group" : "Download / Stream", "name" : "Spotify",          "url" : "https://open.spotify.com/album/1sPze20G9QhxohfQJ4zp0d"},
 				{"type" : "applemusic",   "group" : "Download / Stream", "name" : "Apple Music",      "url" : "https://music.apple.com/us/album/empire-of-silence/1553309416"},
+				{"type" : "spotify",      "group" : "Download / Stream", "name" : "Spotify",          "url" : "https://open.spotify.com/album/1sPze20G9QhxohfQJ4zp0d"},
+				{"type" : "youtubemusic", "group" : "Download / Stream", "name" : "YouTube Music",    "url" : "https://music.youtube.com/playlist?list=OLAK5uy_nopYjq7_y5WBfYR9E2yftTkMUb82AEQu4"},
 				{"type" : "amazon",       "group" : "Download / Stream", "name" : "Amazon",           "url" : "https://music.amazon.com/albums/B08NHX1P8C"},
 				{"type" : "junodownload", "group" : "Download / Stream", "name" : "JunoDownload",     "url" : "https://www.junodownload.com/products/port-fish-empire-of-silence/4848252-02/"},
 				{"type" : "deezer",       "group" : "Download / Stream", "name" : "Deezer",           "url" : "http://www.deezer.com/album/186600062"},
 				{"type" : "tidal",        "group" : "Download / Stream", "name" : "Tidal",            "url" : "http://www.tidal.com/album/162329662"},
 				{"type" : "pandora",      "group" : "Download / Stream", "name" : "Pandora",          "url" : "https://www.pandora.com/artist/port-fish/empire-of-silence/ALVdbw6bkmZP3Vk"},
 				{"type" : "napster",      "group" : "Download / Stream", "name" : "Napster",          "url" : "https://us.napster.com/artist/the-port-fish/album/empire-of-silence-ohmophonia"},
-				{"type" : "audiomack",    "group" : "Download / Stream", "name" : "Audiomack",        "url" : "https://audiomack.com/port-fish/album/empire-of-silence"},
 				{"type" : "yandex",       "group" : "Download / Stream", "name" : "Yandex",           "url" : "https://music.yandex.com/album/12804838"},
+				{"type" : "audiomack",    "group" : "Download / Stream", "name" : "Audiomack",        "url" : "https://audiomack.com/port-fish/album/empire-of-silence"},
+				{"type" : "audius",       "group" : "Download / Stream", "name" : "Audius",           "url" : "https://audius.co/portfishmusic/album/empire-of-silence-75665"},
 				{"type" : "discogs",      "group" : "Reference",         "name" : "Discogs",          "url" : "https://www.discogs.com/Port-Fish-Empire-Of-Silence/release/11975494"},
 				{"type" : "musicbrainz",  "group" : "Reference",         "name" : "MusicBrainz",      "url" : "https://musicbrainz.org/release-group/1dd2bd57-2720-49ef-b21a-07daebee5031"},
 				{"type" : "behance",      "group" : "Reference",         "name" : "Behance",          "url" : "https://www.behance.net/gallery/134618771/Empire-Of-Silence"}
 			],
 			"buylinks" : [
-				{"store" : "BandCamp",   "type" : "bandcamp",  "price" : 4.99, "currency" : "EUR", "link" : "https://portfishmusic.bandcamp.com/album/empire-of-silence"},
-				{"store" : "LaunchCart", "type" : "original",  "price" : 4.95, "currency" : "EUR", "link" : "https://portfish.launchcart.store/empire-of-silence-lp/p/zoq0de"},
-				{"store" : "Spring",     "type" : "spring",    "price" : 6.61, "currency" : "EUR", "link" : "https://teespring.com/portfish-empire-of-silence-lp"}
+				{"store" : "BandCamp",   "type" : "bandcamp",  "price" : 7.00, "currency" : "EUR", "link" : "https://portfishmusic.bandcamp.com/album/empire-of-silence"},
+				{"store" : "Gumroad",    "type" : "gumroad",   "price" : 7.00, "currency" : "EUR", "link" : "https://portfishmusic.gumroad.com/l/empire-of-silence"},
+				{"store" : "PayHip",     "type" : "original",  "price" : 7.00, "currency" : "EUR", "link" : "https://payhip.com/b/KYMEI"},
+				{"store" : "LaunchCart", "type" : "original",  "price" : 7.00, "currency" : "EUR", "link" : "https://portfish.launchcart.store/empire-of-silence-lp/p/zoq0de"},
+				{"store" : "Spring",     "type" : "spring",    "price" : 7.00, "currency" : "EUR", "link" : "https://teespring.com/portfish-empire-of-silence-lp"}
 			],
 			"seo" : {
 				"site" : {
-					"header"      : "Empire Of Silence<span class=\"lfoseo\"> - first album by Port Fish</span>",
-					"title"       : "Empire Of Silence - first album by Port Fish",
-					"image"       : "/media/portfish-empire-of-silence-cover.jpg"
+					"header" : "Empire Of Silence<span class=\"lfoseo\"> - first album by Port Fish</span>",
+					"title"  : "Empire Of Silence - first album by Port Fish",
+					"image"  : "/media/portfish-empire-of-silence-cover.jpg"
 				},
 				"og" : {
 					"images" : [
@@ -191,19 +195,22 @@
 				{"title" : "Maybe Yes (Everything's Different In Chill-Out World Mix)", "time" : "5:36", "audiusID" : "3EAPV"}
 			],
 			"links" : [
-				{"type" : "bandcamp",  "group" : "Download / Stream", "name" : "BandCamp",  "url" : "https://portfishmusic.bandcamp.com/track/maybe-yes"},
-				{"type" : "audius",    "group" : "Stream",            "name" : "Audius",    "url" : "https://audius.co/portfishmusic/maybe-yes-everythings-different-in-chill-out-world-mix"},
-				{"type" : "youtube",   "group" : "Stream",            "name" : "YouTube",   "url" : "https://www.youtube.com/watch?v=u7FQSCUlYeI?sub_confirmation=1"},
-				{"type" : "audiomack", "group" : "Stream",            "name" : "Audiomack", "url" : "https://audiomack.com/port-fish/song/maybe-yes-everythings-different-in-chill-out-world-mix"}
+				{"type" : "original",  "group" : "Download / Stream", "name" : "Original MP3/AAC", "url" : "https://portfishmusic.gumroad.com/l/maybe-yes"},
+				{"type" : "bandcamp",  "group" : "Download / Stream", "name" : "BandCamp",         "url" : "https://portfishmusic.bandcamp.com/track/maybe-yes"},
+				{"type" : "audius",    "group" : "Stream",            "name" : "Audius",           "url" : "https://audius.co/portfishmusic/maybe-yes-everythings-different-in-chill-out-world-mix"},
+				{"type" : "youtube",   "group" : "Stream",            "name" : "YouTube",          "url" : "https://www.youtube.com/watch?v=u7FQSCUlYeI?sub_confirmation=1"},
+				{"type" : "audiomack", "group" : "Stream",            "name" : "Audiomack",        "url" : "https://audiomack.com/port-fish/song/maybe-yes-everythings-different-in-chill-out-world-mix"}
 			],
 			"buylinks" : [
-				{"store" : "BandCamp",   "type" : "bandcamp",  "price" : 1.00, "currency" : "EUR", "link" : "https://portfishmusic.bandcamp.com/track/maybe-yes"}
+				{"store" : "BandCamp", "type" : "bandcamp",  "price" : 1.00, "currency" : "EUR", "link" : "https://portfishmusic.bandcamp.com/track/maybe-yes"},
+				{"store" : "Gumroad",  "type" : "gumroad",   "price" : 1.00, "currency" : "EUR", "link" : "https://portfishmusic.gumroad.com/l/maybe-yes"},
+				{"store" : "PayHip",   "type" : "original",  "price" : 1.00, "currency" : "EUR", "link" : "https://payhip.com/b/meJpB"}
 			],
 			"seo" : {
 				"site" : {
-					"header"      : "Maybe Yes<span class=\"lfoseo\"> - remix by Port Fish</span>",
-					"title"       : "Maybe Yes - remix by Port Fish",
-					"image"       : "/media/portfish-maybe-yes-remix-cover.jpg"
+					"header" : "Maybe Yes<span class=\"lfoseo\"> - remix by Port Fish</span>",
+					"title"  : "Maybe Yes - remix by Port Fish",
+					"image"  : "/media/portfish-maybe-yes-remix-cover.jpg"
 				},
 				"og" : {
 					"images" : [
@@ -257,6 +264,43 @@
 				"twitter" : {
 				}
 			}
+		}
+	],
+	"appearances" : [
+		{
+			"uid"        : "sportage-digital-yoga-vol-3",
+			"artist_uid" : "portfish",
+			"title"      : "Performed Yoga Sport Training And Relax, Vol. 3",
+			"category"   : "compilation",
+			"date"       : "2023-06-23",
+			"release_id" : "portfish-empireofsilence",
+			"track_id"   : "pf-eos-09",
+			"track_no"   : 17,
+			"links" : [
+				{"name" : "Apple Music",   "url" : "https://music.apple.com/us/album/performed-yoga-sport-training-and-relax-vol-3/1687222610"},
+				{"name" : "Spotify",       "url" : "https://open.spotify.com/album/7nxjQayRUKoNciOcWHZ6sG"},
+				{"name" : "YouTube Music", "url" : "https://music.youtube.com/playlist?list=OLAK5uy_kWNRa_wO06g4pquM_W7F5ng8st1jAK_t4"},
+				{"name" : "Amazon Music",  "url" : "https://www.amazon.com/dp/B0C4V6W86D/"},
+				{"name" : "BeatPort",      "url" : "https://www.beatport.com/release/performed-yoga-sport-training-and-relax-vol-3/4124663"},
+				{"name" : "deezer",        "url" : "https://www.deezer.com/en/album/439710947"}
+			]
+		},
+		{
+			"uid"        : "sportage-digital-yoga-vol-4",
+			"artist_uid" : "portfish",
+			"title"      : "Performed Yoga Sport Training And Relax, Vol. 4",
+			"category"   : "compilation",
+			"date"       : "2023-06-30",
+			"release_id" : "portfish-empireofsilence",
+			"track_id"   : "pf-eos-05",
+			"track_no"   : 20,
+			"links" : [
+				{"name" : "Apple Music",   "url" : "https://music.apple.com/us/album/performed-yoga-sport-training-and-relax-vol-4/1687225807"},
+				{"name" : "Spotify",       "url" : "https://open.spotify.com/album/4RnA4H48gy0ZLm4imglSb3"},
+				{"name" : "YouTube Music", "url" : "https://music.youtube.com/playlist?list=OLAK5uy_mFZX5vE8-_tdlQitVFUb8wBsGhZMQ3nr0"},
+				{"name" : "Amazon Music",  "url" : "https://www.amazon.com/dp/B0C4SXBHYR/"},
+				{"name" : "deezer",        "url" : "https://www.deezer.com/en/album/439721157"}
+			]
 		}
 	],
 	"events" : [
