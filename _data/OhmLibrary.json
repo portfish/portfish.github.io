@@ -277,12 +277,12 @@
 			"track_id"   : "pf-eos-09",
 			"track_no"   : 17,
 			"links" : [
-				{"name" : "Apple Music",   "url" : "https://music.apple.com/us/album/performed-yoga-sport-training-and-relax-vol-3/1687222610"},
-				{"name" : "Spotify",       "url" : "https://open.spotify.com/album/7nxjQayRUKoNciOcWHZ6sG"},
-				{"name" : "YouTube Music", "url" : "https://music.youtube.com/playlist?list=OLAK5uy_kWNRa_wO06g4pquM_W7F5ng8st1jAK_t4"},
-				{"name" : "Amazon Music",  "url" : "https://www.amazon.com/dp/B0C4V6W86D/"},
-				{"name" : "BeatPort",      "url" : "https://www.beatport.com/release/performed-yoga-sport-training-and-relax-vol-3/4124663"},
-				{"name" : "deezer",        "url" : "https://www.deezer.com/en/album/439710947"}
+				{"type" : "applemusic",   "name" : "Apple Music",   "url" : "https://music.apple.com/us/album/performed-yoga-sport-training-and-relax-vol-3/1687222610"},
+				{"type" : "spotify",      "name" : "Spotify",       "url" : "https://open.spotify.com/album/7nxjQayRUKoNciOcWHZ6sG"},
+				{"type" : "youtubemusic", "name" : "YouTube Music", "url" : "https://music.youtube.com/playlist?list=OLAK5uy_kWNRa_wO06g4pquM_W7F5ng8st1jAK_t4"},
+				{"type" : "amazon",       "name" : "Amazon Music",  "url" : "https://www.amazon.com/dp/B0C4V6W86D/"},
+				{"type" : "beatport",     "name" : "BeatPort",      "url" : "https://www.beatport.com/release/performed-yoga-sport-training-and-relax-vol-3/4124663"},
+				{"type" : "deezer",       "name" : "deezer",        "url" : "https://www.deezer.com/en/album/439710947"}
 			]
 		},
 		{
@@ -295,11 +295,11 @@
 			"track_id"   : "pf-eos-05",
 			"track_no"   : 20,
 			"links" : [
-				{"name" : "Apple Music",   "url" : "https://music.apple.com/us/album/performed-yoga-sport-training-and-relax-vol-4/1687225807"},
-				{"name" : "Spotify",       "url" : "https://open.spotify.com/album/4RnA4H48gy0ZLm4imglSb3"},
-				{"name" : "YouTube Music", "url" : "https://music.youtube.com/playlist?list=OLAK5uy_mFZX5vE8-_tdlQitVFUb8wBsGhZMQ3nr0"},
-				{"name" : "Amazon Music",  "url" : "https://www.amazon.com/dp/B0C4SXBHYR/"},
-				{"name" : "deezer",        "url" : "https://www.deezer.com/en/album/439721157"}
+				{"type" : "applemusic",   "name" : "Apple Music",   "url" : "https://music.apple.com/us/album/performed-yoga-sport-training-and-relax-vol-4/1687225807"},
+				{"type" : "spotify",      "name" : "Spotify",       "url" : "https://open.spotify.com/album/4RnA4H48gy0ZLm4imglSb3"},
+				{"type" : "youtubemusic", "name" : "YouTube Music", "url" : "https://music.youtube.com/playlist?list=OLAK5uy_mFZX5vE8-_tdlQitVFUb8wBsGhZMQ3nr0"},
+				{"type" : "amazon",       "name" : "Amazon Music",  "url" : "https://www.amazon.com/dp/B0C4SXBHYR/"},
+				{"type" : "deezer",       "name" : "deezer",        "url" : "https://www.deezer.com/en/album/439721157"}
 			]
 		}
 	],
