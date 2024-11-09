@@ -20,7 +20,7 @@
 					"header"      : "Port Fish<span class=\"lfoseo\"> - ambient, chillout &amp; experimental music band</span>",
 					"title"       : "Port Fish | ambient, chillout &amp; experimental music band",
 					"description" : "Info, music and biography of Port Fish - ambient, chillout &amp; experimental music band with unique style, endorsed by Afterlife and Roger Sanchez from Deep Forest",
-					"image"       : "/media/portfish-logo-black.png"
+					"image"       : "/media/portfish-logo-black.webp"
 				},
 				"og" : {
 					"images" : [
@@ -116,8 +116,8 @@
 			"date"        : "2012-11-1",
 			"genres"      : ["ambient"],
 			"images" : {
-				"cover"       : "/media/portfish-empire-of-silence-cover.jpg",
-				"cover_small" : "/media/portfish-empire-of-silence-cover-small.jpg"
+				"cover"       : "/media/portfish-empire-of-silence-cover.webp",
+				"cover_small" : "/media/portfish-empire-of-silence-cover-small.webp"
 			},
 			"tracks" : [
 				{"uid" : "pf-eos-01", "title" : "Coral Seal",        "time" : "6:01", "audiusID" : "bKpqy"},
@@ -188,8 +188,8 @@
 			"date"        : "2012-11-1",
 			"genres"      : ["downtempo"],
 			"images" : {
-				"cover"       : "/media/portfish-maybe-yes-remix-cover.jpg",
-				"cover_small" : "/media/portfish-maybe-yes-remix-cover-small.jpg"
+				"cover"       : "/media/portfish-maybe-yes-remix-cover.webp",
+				"cover_small" : "/media/portfish-maybe-yes-remix-cover-small.webp"
 			},
 			"tracks" : [
 				{"title" : "Maybe Yes (Everything's Different In Chill-Out World Mix)", "time" : "5:36", "audiusID" : "3EAPV"}
@@ -215,6 +215,48 @@
 				"og" : {
 					"images" : [
 						{"file" : "/media/og-port-fish-maybe-yes-remix.jpg", "alt" : "Empire Of Silence | album by Port Fish", "dimensions" : { "width" : 1200, "height" : 628 }}
+					]
+				},
+				"twitter" : {
+				}
+			}
+		},
+		{
+			"uid"         : "portfish-tickingtimebomb",
+			"slug"        : "/elohim-ticking-time-bomb/",
+			"_404_item"   : false,
+			"_home_item"  : 1,
+			"catalog_id"  : "",
+			"type"        : "remix",
+			"artist_uid"  : "portfish",
+			"title"       : "Ticking Time Bomb",
+			"subtitle"    : "Port Fish Remix",
+			"home_memo"   : "unofficial remix",
+			"description" : "An unofficial remix of Elohim's Ticking Time Bomb song by Port Fish.",
+			"date"        : "2024-11-2",
+			"genres"      : ["downtempo"],
+			"images" : {
+				"cover"       : "/media/portfish-elohim-ticking-time-bomb-remix-cover.webp",
+				"cover_small" : "/media/portfish-elohim-ticking-time-bomb-remix-cover-small.wepb"
+			},
+			"tracks" : [
+			],
+			"links" : [
+				{"type" : "bandcamp",   "group" : "Stream", "name" : "BandCamp",   "url" : "https://portfishmusic.bandcamp.com/track/elohim-ticking-time-bomb-port-fish-remix"},
+				{"type" : "youtube",    "group" : "Stream", "name" : "YouTube",    "url" : "https://www.youtube.com/watch?v=CY4KpQTBYRU?sub_confirmation=1"},
+				{"type" : "soundcloud", "group" : "Stream", "name" : "SoundCloud", "url" : "https://soundcloud.com/portfishmusic/elohim-ticking-time-bomb-port-fish-remix"}
+			],
+			"buylinks" : [
+			],
+			"seo" : {
+				"site" : {
+					"header" : "Elohim - Ticking Time Bomb | Port Fish Remix",
+					"title"  : "Elohim - Ticking Time Bomb | Port Fish Remix",
+					"image"  : "/media/portfish-elohim-ticking-time-bomb-remix-cover.webp"
+				},
+				"og" : {
+					"images" : [
+						{"file" : "/media/og-portfish-elohim-ticking-time-bomb-remix-cover.jpg", "alt" : "Elohim - Ticking Time Bomb | Port Fish Remix", "dimensions" : { "width" : 1200, "height" : 628 }}
 					]
 				},
 				"twitter" : {
