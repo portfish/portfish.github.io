@@ -158,6 +158,19 @@
 				{"store" : "LaunchCart", "type" : "original",  "price" : 7.00, "currency" : "EUR", "link" : "https://portfish.launchcart.store/empire-of-silence-lp/p/zoq0de"},
 				{"store" : "Spring",     "type" : "spring",    "price" : 7.00, "currency" : "EUR", "link" : "https://teespring.com/portfish-empire-of-silence-lp"}
 			],
+			"videos" : [
+				{"uid" : "portfish-empireofsilence",                    "title" : "Port Fish - Empire Of Silence Album Sampler | ambient chillout music",            "location" : "https://www.youtube.com/watch?v=JXdUi3Lgka4", "duration" : 1006, "description" : "Visualiser for Sampler/Previews from Port Fish's first full-length album Empire Of Silence."},
+				{"uid" : "portfish-empireofsilence-01-coralsea",        "title" : "Port Fish - Coral Sea (from Empire Of Silence) | ambient chillout music",         "location" : "https://www.youtube.com/watch?v=U0OYJJOOhDQ", "duration" : 362,  "description" : "Coral Sea. Track 01 from Port Fish's first full-length album Empire Of Silence."},
+				{"uid" : "portfish-empireofsilence-02-orpheus",         "title" : "Port Fish - Orpheus (from Empire Of Silence) | ambient chillout music",           "location" : "https://www.youtube.com/watch?v=UVBnrYNp2BU", "duration" : 367,  "description" : "Orpheus. Track 02 from Port Fish's first full-length album Empire Of Silence."},
+				{"uid" : "portfish-empireofsilence-03-worldofpacific",  "title" : "Port Fish - World Of Pacific (from Empire Of Silence) | ambient chillout music",  "location" : "https://www.youtube.com/watch?v=FWBXVpO4E2U", "duration" : 300,  "description" : "World Of Pacific. Track 03 from Port Fish's first full-length album Empire Of Silence."},
+				{"uid" : "portfish-empireofsilence-04-eveningflower",   "title" : "Port Fish - Evening Flower (from Empire Of Silence) | ambient chillout music",    "location" : "https://www.youtube.com/watch?v=vam5XlLR6og", "duration" : 236,  "description" : "Evening Flower. Track 04 from Port Fish's first full-length album Empire Of Silence."},
+				{"uid" : "portfish-empireofsilence-05-antarctic",       "title" : "Port Fish - Antarctic (from Empire Of Silence) | ambient chillout music",         "location" : "https://www.youtube.com/watch?v=prXjw4TRG34", "duration" : 504,  "description" : "Antarctic. Track 05 from Port Fish's first full-length album Empire Of Silence."},
+				{"uid" : "portfish-empireofsilence-06-monkeyisland",    "title" : "Port Fish - The Monkey Island (from Empire Of Silence) | ambient chillout music", "location" : "https://www.youtube.com/watch?v=fJ2VO0Yfbd4", "duration" : 311,  "description" : "The Monkey Island. Track 06 from Port Fish's first full-length album Empire Of Silence."},
+				{"uid" : "portfish-empireofsilence-07-end",             "title" : "Port Fish - E.N.D. (from Empire Of Silence) | ambient chillout music",            "location" : "https://www.youtube.com/watch?v=DkvYin-5uTQ", "duration" : 393,  "description" : "E.N.D. Track 07 from Port Fish's first full-length album Empire Of Silence."},
+				{"uid" : "portfish-empireofsilence-08-odd",             "title" : "Port Fish - Odd (from Empire Of Silence) | ambient chillout music",               "location" : "https://www.youtube.com/watch?v=50idepabSFY", "duration" : 324,  "description" : "Odd. Track 08 from Port Fish's first full-length album Empire Of Silence."},
+				{"uid" : "portfish-empireofsilence-09-empireofsilence", "title" : "Port Fish - Empire Of Silence (from Empire Of Silence) | ambient chillout music", "location" : "https://www.youtube.com/watch?v=Q7Qt-lxeo6E", "duration" : 308,  "description" : "Empire Of Silence. Track 09 from Port Fish's first full-length album Empire Of Silence."},
+				{"uid" : "portfish-empireofsilence-10-oreada",          "title" : "Port Fish - Oreada (from Empire Of Silence) | ambient chillout music",            "location" : "https://www.youtube.com/watch?v=2JbuU2YtT6Y", "duration" : 430,  "description" : "Oreada. Track 10 from Port Fish's first full-length album Empire Of Silence."}
+			],
 			"seo" : {
 				"site" : {
 					"header" : "Empire Of Silence<span class=\"lfoseo\"> - first album by Port Fish</span>",
@@ -186,7 +199,7 @@
 			"home_memo"   : "remix competition winner",
 			"description" : "Winning track from the remix competition conducted by legendary Slovak musician and music producer Laco Lučenič for his song Maybe Yes (Možno Áno)",
 			"date"        : "2012-11-1",
-			"genres"      : ["downtempo"],
+			"genres"      : ["triphop"],
 			"images" : {
 				"cover"       : "/media/portfish-maybe-yes-remix-cover.webp",
 				"cover_small" : "/media/portfish-maybe-yes-remix-cover-small.webp"
@@ -205,6 +218,9 @@
 				{"store" : "BandCamp", "type" : "bandcamp",  "price" : 1.00, "currency" : "EUR", "link" : "https://portfishmusic.bandcamp.com/track/maybe-yes"},
 				{"store" : "Gumroad",  "type" : "gumroad",   "price" : 1.00, "currency" : "EUR", "link" : "https://portfishmusic.gumroad.com/l/maybe-yes"},
 				{"store" : "PayHip",   "type" : "original",  "price" : 1.00, "currency" : "EUR", "link" : "https://payhip.com/b/meJpB"}
+			],
+			"videos" : [
+				{"uid" : "portfish-maybeyes", "title" : "Port Fish feat. Laco Lučenič - Maybe Yes (Možno Áno) - Everything's Different In Chill-Out World Mix", "location" : "https://www.youtube.com/watch?v=u7FQSCUlYeI", "duration" : 336, "description" : "Winning track of remix competition for song Maybe Yes (Možno Áno) from Laco Lučenič (Double L)."}
 			],
 			"seo" : {
 				"site" : {
@@ -247,6 +263,9 @@
 				{"type" : "soundcloud", "group" : "Stream", "name" : "SoundCloud", "url" : "https://soundcloud.com/portfishmusic/elohim-ticking-time-bomb-port-fish-remix"}
 			],
 			"buylinks" : [
+			],
+			"videos" : [
+				{"uid" : "portfish-tickingtimebomb", "title" : "Elohim - Ticking Time Bomb | Port Fish Remix", "location" : "https://www.youtube.com/watch?v=CY4KpQTBYRU", "duration" : 243, "description" : "Visualiser for an unofficial remix of Elohim's Ticking Time Bomb song by Port Fish."}
 			],
 			"seo" : {
 				"site" : {
@@ -291,6 +310,12 @@
 				{"type" : "youtube", "group" : "Stream", "name" : "YouTube Playlist", "url" : "https://www.youtube.com/playlist?list=PL1010B28FDED1728E&sub_confirmation=1"}
 			],
 			"buylinks" : [
+			],
+			"videos" : [
+				{"uid" : "ghizeh-spokenep-01-spoken",   "title" : "Ghizeh - Spoken EP - Spoken",   "location" : "https://www.youtube.com/watch?v=6VBPIvF_Hdw", "duration" : 272, "description" : "Track 1 from Ghizeh's first EP - Spoken."},
+				{"uid" : "ghizeh-spokenep-02-open",     "title" : "Ghizeh - Spoken EP - Open",     "location" : "https://www.youtube.com/watch?v=pKdb4Jhz2Mk", "duration" : 242, "description" : "Track 2 from Ghizeh's first EP - Spoken."},
+				{"uid" : "ghizeh-spokenep-03-empirion", "title" : "Ghizeh - Spoken EP - Empirion", "location" : "https://www.youtube.com/watch?v=O1L7IIasjm0", "duration" : 237, "description" : "Track 3 from Ghizeh's first EP - Spoken."},
+				{"uid" : "ghizeh-spokenep-04-birds",    "title" : "Ghizeh - Spoken EP - Birds",    "location" : "https://www.youtube.com/watch?v=I4FoFqLn60A", "duration" : 230, "description" : "Track 4 from Ghizeh's first EP - Spoken."}
 			],
 			"seo" : {
 				"site" : {
