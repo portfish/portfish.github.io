@@ -13,19 +13,7 @@
 		<lastmod>2024-11-26</lastmod>
 	</url>
 	<url>
-		<loc>https://portfish.net/search/</loc>
-		<lastmod>2024-11-26</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/events/archive/</loc>
-		<lastmod>2024-11-26</lastmod>
-	</url>
-	<url>
 		<loc>https://portfish.net/music/</loc>
-		<lastmod>2024-11-26</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/privacy/</loc>
 		<lastmod>2024-11-26</lastmod>
 	</url>
 	<url>
@@ -33,7 +21,19 @@
 		<lastmod>2024-11-26</lastmod>
 	</url>
 	<url>
+		<loc>https://portfish.net/search/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
 		<loc>https://portfish.net/store/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/privacy/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/events/archive/</loc>
 		<lastmod>2024-11-26</lastmod>
 	</url>
 	<url>
@@ -200,6 +200,22 @@
 	</url>
 	<url>
 		<loc>https://portfish.net/tag/ambient/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/tag/chillout/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/tag/downtempo/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/tag/experimental/</loc>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/tag/triphop/</loc>
 		<lastmod>2024-11-26</lastmod>
 	</url>
 </urlset>
