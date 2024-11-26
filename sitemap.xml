@@ -1,112 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 	<url>
-		<loc>https://portfish.net/rss-events.xml</loc>
-		<lastmod>2024-11-10</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/rss-facebook-catalogue.xml</loc>
-		<lastmod>2024-11-10</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/rss.xml</loc>
-		<lastmod>2024-11-10</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/about/rss.xml</loc>
-		<lastmod>2020-10-22</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/sitemap_simple.xml</loc>
-		<lastmod>2024-11-10</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/events/archive/</loc>
-		<lastmod>2024-11-10</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/amp/events/archive/</loc>
-		<lastmod>2024-11-10</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/404/</loc>
-		<lastmod>2024-11-10</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/amp/404/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<loc>https://portfish.net/artists/</loc>
+		<lastmod>2024-11-26</lastmod>
 	</url>
 	<url>
 		<loc>https://portfish.net/events/</loc>
-		<lastmod>2024-11-10</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/amp/events/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 	</url>
 	<url>
 		<loc>https://portfish.net/</loc>
-		<lastmod>2024-11-10</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/amp/</loc>
-		<lastmod>2024-11-10</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/privacy/</loc>
-		<lastmod>2024-11-10</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/amp/privacy/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 	</url>
 	<url>
 		<loc>https://portfish.net/search/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
+	</url>
+	<url>
+		<loc>https://portfish.net/events/archive/</loc>
+		<lastmod>2024-11-26</lastmod>
 	</url>
 	<url>
 		<loc>https://portfish.net/music/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 	</url>
 	<url>
-		<loc>https://portfish.net/amp/music/</loc>
-		<lastmod>2024-11-10</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/artists/</loc>
-		<lastmod>2024-11-10</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/amp/artists/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<loc>https://portfish.net/privacy/</loc>
+		<lastmod>2024-11-26</lastmod>
 	</url>
 	<url>
 		<loc>https://portfish.net/sitemap/</loc>
-		<lastmod>2024-11-10</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/amp/sitemap/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 	</url>
 	<url>
 		<loc>https://portfish.net/store/</loc>
-		<lastmod>2024-11-10</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/amp/store/</loc>
-		<lastmod>2024-11-10</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/amp/about/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://portfish.net/media/portfish-logo-black.webp</image:loc>
-			<image:title>Port Fish official logo</image:title>
-		</image:image>
+		<lastmod>2024-11-26</lastmod>
 	</url>
 	<url>
 		<loc>https://portfish.net/about/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://portfish.net/media/portfish-logo-black.webp</image:loc>
 			<image:title>Port Fish official logo</image:title>
@@ -114,7 +46,7 @@
 	</url>
 	<url>
 		<loc>https://portfish.net/empire-of-silence/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://portfish.net/media/portfish-empire-of-silence-cover.webp</image:loc>
 			<image:title>Empire Of Silence official cover art</image:title>
@@ -232,7 +164,7 @@
 	</url>
 	<url>
 		<loc>https://portfish.net/maybe-yes/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://portfish.net/media/portfish-maybe-yes-remix-cover.webp</image:loc>
 			<image:title>Maybe Yes official cover art</image:title>
@@ -250,7 +182,7 @@
 	</url>
 	<url>
 		<loc>https://portfish.net/elohim-ticking-time-bomb/</loc>
-		<lastmod>2024-11-10</lastmod>
+		<lastmod>2024-11-26</lastmod>
 		<image:image>
 			<image:loc>https://portfish.net/media/portfish-elohim-ticking-time-bomb-remix-cover.webp</image:loc>
 			<image:title>Ticking Time Bomb official cover art</image:title>
@@ -268,164 +200,6 @@
 	</url>
 	<url>
 		<loc>https://portfish.net/tag/ambient/</loc>
-		<lastmod>2024-11-10</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/amp/tag/ambient/</loc>
-		<lastmod>2024-11-10</lastmod>
-	</url>
-	<url>
-		<loc>https://portfish.net/amp/empire-of-silence/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://portfish.net/media/portfish-empire-of-silence-cover.webp</image:loc>
-			<image:title>Empire Of Silence official cover art</image:title>
-		</image:image>
-		<video:video>
-			<video:thumbnail_loc>https://portfish.net/media/videos/portfish-empireofsilence.jpg</video:thumbnail_loc>
-			<video:title>Port Fish - Empire Of Silence Album Sampler | ambient chillout music</video:title>
-			<video:description>Visualiser for Sampler/Previews from Port Fish's first full-length album Empire Of Silence.</video:description>
-			<video:player_loc>https://www.youtube.com/watch?v=JXdUi3Lgka4</video:player_loc>
-			<video:duration>1006</video:duration>
-			<video:platform relationship="allow">web mobile tv</video:platform>
-			<video:requires_subscription>no</video:requires_subscription>
-			<video:live>no</video:live>
-		</video:video>
-		<video:video>
-			<video:thumbnail_loc>https://portfish.net/media/videos/portfish-empireofsilence-01-coralsea.jpg</video:thumbnail_loc>
-			<video:title>Port Fish - Coral Sea (from Empire Of Silence) | ambient chillout music</video:title>
-			<video:description>Coral Sea. Track 01 from Port Fish's first full-length album Empire Of Silence.</video:description>
-			<video:player_loc>https://www.youtube.com/watch?v=U0OYJJOOhDQ</video:player_loc>
-			<video:duration>362</video:duration>
-			<video:platform relationship="allow">web mobile tv</video:platform>
-			<video:requires_subscription>no</video:requires_subscription>
-			<video:live>no</video:live>
-		</video:video>
-		<video:video>
-			<video:thumbnail_loc>https://portfish.net/media/videos/portfish-empireofsilence-02-orpheus.jpg</video:thumbnail_loc>
-			<video:title>Port Fish - Orpheus (from Empire Of Silence) | ambient chillout music</video:title>
-			<video:description>Orpheus. Track 02 from Port Fish's first full-length album Empire Of Silence.</video:description>
-			<video:player_loc>https://www.youtube.com/watch?v=UVBnrYNp2BU</video:player_loc>
-			<video:duration>367</video:duration>
-			<video:platform relationship="allow">web mobile tv</video:platform>
-			<video:requires_subscription>no</video:requires_subscription>
-			<video:live>no</video:live>
-		</video:video>
-		<video:video>
-			<video:thumbnail_loc>https://portfish.net/media/videos/portfish-empireofsilence-03-worldofpacific.jpg</video:thumbnail_loc>
-			<video:title>Port Fish - World Of Pacific (from Empire Of Silence) | ambient chillout music</video:title>
-			<video:description>World Of Pacific. Track 03 from Port Fish's first full-length album Empire Of Silence.</video:description>
-			<video:player_loc>https://www.youtube.com/watch?v=FWBXVpO4E2U</video:player_loc>
-			<video:duration>300</video:duration>
-			<video:platform relationship="allow">web mobile tv</video:platform>
-			<video:requires_subscription>no</video:requires_subscription>
-			<video:live>no</video:live>
-		</video:video>
-		<video:video>
-			<video:thumbnail_loc>https://portfish.net/media/videos/portfish-empireofsilence-04-eveningflower.jpg</video:thumbnail_loc>
-			<video:title>Port Fish - Evening Flower (from Empire Of Silence) | ambient chillout music</video:title>
-			<video:description>Evening Flower. Track 04 from Port Fish's first full-length album Empire Of Silence.</video:description>
-			<video:player_loc>https://www.youtube.com/watch?v=vam5XlLR6og</video:player_loc>
-			<video:duration>236</video:duration>
-			<video:platform relationship="allow">web mobile tv</video:platform>
-			<video:requires_subscription>no</video:requires_subscription>
-			<video:live>no</video:live>
-		</video:video>
-		<video:video>
-			<video:thumbnail_loc>https://portfish.net/media/videos/portfish-empireofsilence-05-antarctic.jpg</video:thumbnail_loc>
-			<video:title>Port Fish - Antarctic (from Empire Of Silence) | ambient chillout music</video:title>
-			<video:description>Antarctic. Track 05 from Port Fish's first full-length album Empire Of Silence.</video:description>
-			<video:player_loc>https://www.youtube.com/watch?v=prXjw4TRG34</video:player_loc>
-			<video:duration>504</video:duration>
-			<video:platform relationship="allow">web mobile tv</video:platform>
-			<video:requires_subscription>no</video:requires_subscription>
-			<video:live>no</video:live>
-		</video:video>
-		<video:video>
-			<video:thumbnail_loc>https://portfish.net/media/videos/portfish-empireofsilence-06-monkeyisland.jpg</video:thumbnail_loc>
-			<video:title>Port Fish - The Monkey Island (from Empire Of Silence) | ambient chillout music</video:title>
-			<video:description>The Monkey Island. Track 06 from Port Fish's first full-length album Empire Of Silence.</video:description>
-			<video:player_loc>https://www.youtube.com/watch?v=fJ2VO0Yfbd4</video:player_loc>
-			<video:duration>311</video:duration>
-			<video:platform relationship="allow">web mobile tv</video:platform>
-			<video:requires_subscription>no</video:requires_subscription>
-			<video:live>no</video:live>
-		</video:video>
-		<video:video>
-			<video:thumbnail_loc>https://portfish.net/media/videos/portfish-empireofsilence-07-end.jpg</video:thumbnail_loc>
-			<video:title>Port Fish - E.N.D. (from Empire Of Silence) | ambient chillout music</video:title>
-			<video:description>E.N.D. Track 07 from Port Fish's first full-length album Empire Of Silence.</video:description>
-			<video:player_loc>https://www.youtube.com/watch?v=DkvYin-5uTQ</video:player_loc>
-			<video:duration>393</video:duration>
-			<video:platform relationship="allow">web mobile tv</video:platform>
-			<video:requires_subscription>no</video:requires_subscription>
-			<video:live>no</video:live>
-		</video:video>
-		<video:video>
-			<video:thumbnail_loc>https://portfish.net/media/videos/portfish-empireofsilence-08-odd.jpg</video:thumbnail_loc>
-			<video:title>Port Fish - Odd (from Empire Of Silence) | ambient chillout music</video:title>
-			<video:description>Odd. Track 08 from Port Fish's first full-length album Empire Of Silence.</video:description>
-			<video:player_loc>https://www.youtube.com/watch?v=50idepabSFY</video:player_loc>
-			<video:duration>324</video:duration>
-			<video:platform relationship="allow">web mobile tv</video:platform>
-			<video:requires_subscription>no</video:requires_subscription>
-			<video:live>no</video:live>
-		</video:video>
-		<video:video>
-			<video:thumbnail_loc>https://portfish.net/media/videos/portfish-empireofsilence-09-empireofsilence.jpg</video:thumbnail_loc>
-			<video:title>Port Fish - Empire Of Silence (from Empire Of Silence) | ambient chillout music</video:title>
-			<video:description>Empire Of Silence. Track 09 from Port Fish's first full-length album Empire Of Silence.</video:description>
-			<video:player_loc>https://www.youtube.com/watch?v=Q7Qt-lxeo6E</video:player_loc>
-			<video:duration>308</video:duration>
-			<video:platform relationship="allow">web mobile tv</video:platform>
-			<video:requires_subscription>no</video:requires_subscription>
-			<video:live>no</video:live>
-		</video:video>
-		<video:video>
-			<video:thumbnail_loc>https://portfish.net/media/videos/portfish-empireofsilence-10-oreada.jpg</video:thumbnail_loc>
-			<video:title>Port Fish - Oreada (from Empire Of Silence) | ambient chillout music</video:title>
-			<video:description>Oreada. Track 10 from Port Fish's first full-length album Empire Of Silence.</video:description>
-			<video:player_loc>https://www.youtube.com/watch?v=2JbuU2YtT6Y</video:player_loc>
-			<video:duration>430</video:duration>
-			<video:platform relationship="allow">web mobile tv</video:platform>
-			<video:requires_subscription>no</video:requires_subscription>
-			<video:live>no</video:live>
-		</video:video>
-	</url>
-	<url>
-		<loc>https://portfish.net/amp/maybe-yes/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://portfish.net/media/portfish-maybe-yes-remix-cover.webp</image:loc>
-			<image:title>Maybe Yes official cover art</image:title>
-		</image:image>
-		<video:video>
-			<video:thumbnail_loc>https://portfish.net/media/videos/portfish-maybeyes.jpg</video:thumbnail_loc>
-			<video:title>Port Fish feat. Laco Lučenič - Maybe Yes (Možno Áno) - Everything's Different In Chill-Out World Mix</video:title>
-			<video:description>Winning track of remix competition for song Maybe Yes (Možno Áno) from Laco Lučenič (Double L).</video:description>
-			<video:player_loc>https://www.youtube.com/watch?v=u7FQSCUlYeI</video:player_loc>
-			<video:duration>336</video:duration>
-			<video:platform relationship="allow">web mobile tv</video:platform>
-			<video:requires_subscription>no</video:requires_subscription>
-			<video:live>no</video:live>
-		</video:video>
-	</url>
-	<url>
-		<loc>https://portfish.net/amp/elohim-ticking-time-bomb/</loc>
-		<lastmod>2024-11-10</lastmod>
-		<image:image>
-			<image:loc>https://portfish.net/media/portfish-elohim-ticking-time-bomb-remix-cover.webp</image:loc>
-			<image:title>Ticking Time Bomb official cover art</image:title>
-		</image:image>
-		<video:video>
-			<video:thumbnail_loc>https://portfish.net/media/videos/portfish-tickingtimebomb.jpg</video:thumbnail_loc>
-			<video:title>Elohim - Ticking Time Bomb | Port Fish Remix</video:title>
-			<video:description>Visualiser for an unofficial remix of Elohim's Ticking Time Bomb song by Port Fish.</video:description>
-			<video:player_loc>https://www.youtube.com/watch?v=CY4KpQTBYRU</video:player_loc>
-			<video:duration>243</video:duration>
-			<video:platform relationship="allow">web mobile tv</video:platform>
-			<video:requires_subscription>no</video:requires_subscription>
-			<video:live>no</video:live>
-		</video:video>
+		<lastmod>2024-11-26</lastmod>
 	</url>
 </urlset>
